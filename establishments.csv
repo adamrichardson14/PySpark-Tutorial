@@ -1,0 +1,2000 @@
+establishment_id,establishment_name,mgr_id,zipcode,lat,long,city,state,no_of_rooms
+0,Supertel Cornelia,24631,30531,34.51017,-83.59103,Cornelia,GA,289
+1,Supertel Stillwater,16343,17878,41.1721,-76.32364,Stillwater,PA,203
+2,Supertel Grand Isle,39210,70358,29.21367,-90.0306,Grand Isle,LA,207
+3,Supertel Leopolis,3627,54948,44.7774,-88.88823,Leopolis,WI,27
+4,Supertel Nacogdoches,43215,75964,31.63334,-94.75057,Nacogdoches,TX,20
+5,Supertel Wilmore,30607,15962,40.38942,-78.71644,Wilmore,PA,56
+6,Supertel Staten Island,23625,10304,40.60671,-74.0931,Staten Island,NY,133
+7,Supertel Edmore,23260,48829,43.40027,-85.02037,Edmore,MI,200
+8,Supertel New Sharon,16530,4955,44.63998,-70.00799,New Sharon,ME,39
+9,Supertel Deweese,33003,68934,40.33831,-98.15962,Deweese,NE,189
+10,Supertel Chocorua,49418,3817,43.8885,-71.23358,Chocorua,NH,86
+11,Supertel Aberdeen,5263,45101,38.69164,-83.74024,Aberdeen,OH,171
+12,Supertel Beaufort,15019,28516,34.84827,-76.61128,Beaufort,NC,188
+13,Supertel Fairborn,20666,45324,39.81986,-84.00026,Fairborn,OH,130
+14,Supertel Julesburg,17718,80737,40.88974,-102.19267,Julesburg,CO,142
+15,Supertel North Bend,8834,98045,47.48276,-121.65678,North Bend,WA,144
+16,Supertel Stillwater,8232,74075,36.17151,-97.0774,Stillwater,OK,103
+17,Supertel Oxford,39645,36203,33.58205,-85.83312,Oxford,AL,82
+18,Supertel Little River,21132,36550,31.25212,-87.74294,Little River,AL,282
+19,Supertel Esperance,33457,12066,42.78011,-74.30291,Esperance,NY,283
+20,Supertel Piercefield,15253,12973,44.30279,-74.59187,Piercefield,NY,20
+21,Supertel Grant,3184,70644,30.79078,-92.94924,Grant,LA,125
+22,Supertel Desert Center,44368,92239,33.87424,-115.24396,Desert Center,CA,80
+23,Supertel Tanner,29947,35671,34.66607,-86.95191,Tanner,AL,158
+24,Supertel Olympia,49346,98501,46.9783,-122.86989,Olympia,WA,272
+25,Supertel Forest City,4551,61532,40.34851,-89.80692,Forest City,IL,179
+26,Supertel Vancourt,41529,76955,31.29919,-100.1389,Vancourt,TX,39
+27,Supertel Olga,21847,98279,48.64474,-122.80602,Olga,WA,279
+28,Supertel Tacoma,19048,98466,47.22842,-122.53479,Tacoma,WA,128
+29,Supertel Prairie Hill,7179,76678,31.65009,-96.75087,Prairie Hill,TX,157
+30,Supertel Nineveh,25620,46164,39.3036,-86.12301,Nineveh,IN,116
+31,Supertel Encino,42104,88321,34.76815,-105.45564,Encino,NM,284
+32,Supertel Paradis,41648,70080,29.8743,-90.43227,Paradis,LA,162
+33,Supertel Cameron,40013,70631,29.86692,-93.55404,Cameron,LA,35
+34,Supertel Red Valley,42677,86544,36.58162,-109.13818,Red Valley,AZ,157
+35,Supertel Bloomington,47410,12411,41.87975,-74.04094,Bloomington,NY,129
+36,Supertel Windsor,25022,5089,43.49686,-72.4515,Windsor,VT,58
+37,Supertel Lyle,48904,55953,43.52772,-92.96521,Lyle,MN,39
+38,Supertel Point Arena,7915,95468,38.9094,-123.60372,Point Arena,CA,274
+39,Supertel Phoenix,48897,85009,33.44457,-112.12661,Phoenix,AZ,24
+40,Supertel Orchard,37815,77464,29.61807,-95.94148,Orchard,TX,206
+41,Supertel Leadore,32953,83464,44.48105,-113.20271,Leadore,ID,192
+42,Supertel Kettlersville,35582,45336,40.44256,-84.25988,Kettlersville,OH,68
+43,Supertel Memphis,16545,38119,35.07986,-89.84593,Memphis,TN,29
+44,Supertel Chaparral,49503,88081,32.24958,-106.28821,Chaparral,NM,20
+45,Supertel Fresno,22890,93725,36.62667,-119.73501,Fresno,CA,204
+46,Supertel New Trenton,44937,47035,39.31016,-84.90394,New Trenton,IN,24
+47,Supertel Mckeesport,17565,15131,40.33477,-79.80132,Mckeesport,PA,196
+48,Supertel Medford,12706,97504,42.32757,-122.80068,Medford,OR,185
+49,Supertel Kunkletown,29384,18058,40.8922,-75.49094,Kunkletown,PA,128
+50,Supertel Montreal,36805,65591,37.97941,-92.59076,Montreal,MO,170
+51,Supertel Waterbury,24349,6710,41.56958,-73.04598,Waterbury,CT,172
+52,Supertel Leesville,31818,29070,33.91742,-81.45517,Leesville,SC,252
+53,Supertel Batchtown,12444,62006,39.06433,-90.66714,Batchtown,IL,243
+54,Supertel Hoxie,29190,72433,36.02582,-91.04446,Hoxie,AR,116
+55,Supertel Murray,9863,50174,41.03723,-93.96167,Murray,IA,49
+56,Supertel Titusville,22309,8560,40.31453,-74.85946,Titusville,NJ,27
+57,Supertel Clyde,1870,66938,39.58018,-97.41081,Clyde,KS,267
+58,Supertel Woodman,7853,53827,43.05049,-90.83702,Woodman,WI,209
+59,Supertel Mattapan,10704,2126,42.27588,-71.0918,Mattapan,MA,260
+60,Supertel Prattville,46576,36066,32.48216,-86.42431,Prattville,AL,267
+61,Supertel Bethel,20911,12720,41.65794,-74.90029,Bethel,NY,291
+62,Supertel Toddville,14558,52341,42.10535,-91.7341,Toddville,IA,103
+63,Supertel Canton,35736,44718,40.85122,-81.44806,Canton,OH,291
+64,Supertel High Ridge,37731,63049,38.47795,-90.52867,High Ridge,MO,245
+65,Supertel Middlebranch,43196,44652,40.90088,-81.33015,Middlebranch,OH,82
+66,Supertel Stony Ridge,6846,43463,41.51141,-83.50511,Stony Ridge,OH,159
+67,Supertel Foster,46846,73434,34.62083,-97.58286,Foster,OK,186
+68,Supertel Marshalltown,23261,50158,42.05016,-92.90143,Marshalltown,IA,159
+69,Supertel Byron,18914,61010,42.136,-89.26751,Byron,IL,179
+70,Supertel Escalon,42795,95320,37.82453,-121.01545,Escalon,CA,67
+71,Supertel Eastern,42900,41622,37.51377,-82.80925,Eastern,KY,111
+72,Supertel Louisville,23000,40203,38.24722,-85.765,Louisville,KY,101
+73,Supertel Hillsborough,5403,27278,36.08673,-79.08778,Hillsborough,NC,144
+74,Supertel Callaway,36299,24067,37.03737,-80.06884,Callaway,VA,215
+75,Supertel Chattanooga,49691,37407,35.002,-85.28941,Chattanooga,TN,284
+76,Supertel Tallmansville,9464,26237,38.84769,-80.15145,Tallmansville,WV,255
+77,Supertel Silver Spring,42011,20903,39.02128,-76.9821,Silver Spring,MD,118
+78,Supertel Dolgeville,48604,13329,43.11094,-74.70017,Dolgeville,NY,205
+79,Supertel Montrose,41650,71658,33.32018,-91.57635,Montrose,AR,237
+80,Supertel Wise,17772,27594,36.47294,-78.16622,Wise,NC,219
+81,Supertel Grand Haven,41433,49417,43.01519,-86.14387,Grand Haven,MI,201
+82,Supertel Farmersville,37954,45325,39.69297,-84.4269,Farmersville,OH,130
+83,Supertel Ontario,24697,91761,34.03541,-117.5915,Ontario,CA,92
+84,Supertel Ohatchee,30589,36271,33.78215,-86.01624,Ohatchee,AL,100
+85,Supertel Santa Fe,31185,38482,35.76792,-87.14574,Santa Fe,TN,232
+86,Supertel Centerville,10831,52544,40.71774,-92.90831,Centerville,IA,76
+87,Supertel Lempster,42751,3605,43.22815,-72.18032,Lempster,NH,121
+88,Supertel Stafford,29654,67578,37.96922,-98.59105,Stafford,KS,285
+89,Supertel Pierson,27887,49339,43.33574,-85.49454,Pierson,MI,113
+90,Supertel North Zulch,8718,77872,30.88539,-96.0971,North Zulch,TX,123
+91,Supertel Tomahawk,19963,41262,37.85112,-82.61377,Tomahawk,KY,98
+92,Supertel Dongola,41202,62926,37.3692,-89.13589,Dongola,IL,159
+93,Supertel Walhonding,2022,43843,40.33485,-82.17711,Walhonding,OH,177
+94,Supertel Hosmer,19771,57448,45.61196,-99.41859,Hosmer,SD,176
+95,Supertel Tazewell,15001,24651,37.07732,-81.50054,Tazewell,VA,54
+96,Supertel Mount Vernon,7084,10550,40.90627,-73.8351,Mount Vernon,NY,251
+97,Supertel Bowling Green,45996,43402,41.40957,-83.65389,Bowling Green,OH,88
+98,Supertel Osterville,25082,2655,41.62972,-70.39263,Osterville,MA,91
+99,Supertel Ogallah,49575,67656,38.98565,-99.75549,Ogallah,KS,271
+100,Supertel Bastian,44941,24314,37.17166,-81.20728,Bastian,VA,20
+101,Supertel Gas City,27082,46933,40.47887,-85.58091,Gas City,IN,126
+102,Supertel Hannawa Falls,42141,13647,44.6017,-74.99264,Hannawa Falls,NY,212
+103,Supertel Van Horn,39438,79855,30.92331,-104.85583,Van Horn,TX,292
+104,Supertel Des Plaines,14856,60016,42.05232,-87.8899,Des Plaines,IL,40
+105,Supertel Clute,49031,77531,29.03895,-95.40071,Clute,TX,87
+106,Supertel Sebastian,39058,78594,26.34704,-97.8037,Sebastian,TX,78
+107,Supertel Falls Village,45928,6031,41.95788,-73.31733,Falls Village,CT,168
+108,Supertel Tacoma,11530,98447,47.14531,-122.44392,Tacoma,WA,233
+109,Supertel Hardin,21688,64035,39.28796,-93.81972,Hardin,MO,132
+110,Supertel Farnhamville,13916,50538,42.28422,-94.43024,Farnhamville,IA,141
+111,Supertel Sanford,47375,23426,37.92706,-75.67506,Sanford,VA,167
+112,Supertel Mardela Springs,31445,21837,38.4594,-75.76731,Mardela Springs,MD,120
+113,Supertel Ivanhoe,33682,56142,44.4711,-96.2327,Ivanhoe,MN,46
+114,Supertel Oscoda,22419,48750,44.44338,-83.45652,Oscoda,MI,93
+115,Supertel Worcester,43121,1604,42.25085,-71.7683,Worcester,MA,130
+116,Supertel Grand Lake,38168,80447,40.30116,-105.81712,Grand Lake,CO,147
+117,Supertel Friedens,47111,15541,40.04905,-78.98076,Friedens,PA,252
+118,Supertel Valley Lee,41809,20692,38.18352,-76.50682,Valley Lee,MD,213
+119,Supertel Wichita,28638,67209,37.6639,-97.43463,Wichita,KS,97
+120,Supertel Ridgeway,26544,53582,43.01791,-89.99106,Ridgeway,WI,177
+121,Supertel Fresno,34641,93727,36.75119,-119.69736,Fresno,CA,116
+122,Supertel Tunnelton,36957,47467,38.76776,-86.34463,Tunnelton,IN,193
+123,Supertel Hurricane,30545,84737,37.08321,-113.26032,Hurricane,UT,194
+124,Supertel Adams,4002,41201,38.06201,-82.7576,Adams,KY,256
+125,Supertel Selma,14430,52588,40.86325,-92.16315,Selma,IA,86
+126,Supertel Rulo,22585,68431,40.0677,-95.43402,Rulo,NE,59
+127,Supertel Swayzee,32869,46986,40.49481,-85.81929,Swayzee,IN,53
+128,Supertel Whitman,32318,25652,37.78702,-82.04865,Whitman,WV,286
+129,Supertel Grassy Creek,34211,28631,36.55218,-81.40994,Grassy Creek,NC,186
+130,Supertel Corunna,15436,46730,41.454,-85.15504,Corunna,IN,256
+131,Supertel Hamilton,45893,81638,40.30589,-107.64205,Hamilton,CO,290
+132,Supertel Saint Clair Shores,34459,48082,42.5271,-82.88711,Saint Clair Shores,MI,67
+133,Supertel Ocate,33646,87734,36.17323,-105.09363,Ocate,NM,166
+134,Supertel Biddeford,22603,4005,43.49591,-70.49537,Biddeford,ME,259
+135,Supertel Mobile,34155,36606,30.67088,-88.10617,Mobile,AL,142
+136,Supertel Kiowa,19948,74553,34.70808,-95.91859,Kiowa,OK,164
+137,Supertel Ottawa Lake,24092,49267,41.75979,-83.72341,Ottawa Lake,MI,223
+138,Supertel Raleigh,21707,27614,35.94739,-78.62059,Raleigh,NC,167
+139,Supertel Whitewood,21086,57793,44.51824,-103.581,Whitewood,SD,155
+140,Supertel Goree,17483,76363,33.50762,-99.53122,Goree,TX,300
+141,Supertel Aaronsburg,37484,16820,40.91995,-77.38702,Aaronsburg,PA,294
+142,Supertel Morristown,10803,57645,45.9119,-101.71855,Morristown,SD,63
+143,Supertel Marcellus,23008,13108,42.97349,-76.33069,Marcellus,NY,96
+144,Supertel Conconully,37200,98819,48.59797,-119.82327,Conconully,WA,37
+145,Supertel Moorcroft,22111,82721,44.46199,-104.89808,Moorcroft,WY,112
+146,Supertel Pointe Aux Pins,27845,49775,45.76941,-84.46333,Pointe Aux Pins,MI,185
+147,Supertel Mora,28388,55051,45.93818,-93.33201,Mora,MN,244
+148,Supertel Emmonak,7403,99581,62.82476,-164.68692,Emmonak,AK,167
+149,Supertel Kasson,6282,55944,43.98754,-92.73758,Kasson,MN,90
+150,Supertel Norcross,23580,30093,33.90879,-84.17839,Norcross,GA,145
+151,Supertel Clear Brook,3178,22624,39.26535,-78.09507,Clear Brook,VA,88
+152,Supertel Serena,39892,60549,41.4908,-88.74251,Serena,IL,264
+153,Supertel Marietta,40346,13110,42.89019,-76.28507,Marietta,NY,169
+154,Supertel Allenwood,20533,17810,41.1123,-77.02543,Allenwood,PA,254
+155,Supertel Toluca,17894,61369,40.9827,-89.15397,Toluca,IL,212
+156,Supertel Crane,17343,79731,31.4477,-102.56095,Crane,TX,206
+157,Supertel Duncannon,42373,17020,40.41014,-77.04367,Duncannon,PA,140
+158,Supertel Oroville,4643,95965,39.59169,-121.59034,Oroville,CA,235
+159,Supertel Sea Isle City,38830,8243,39.15235,-74.69758,Sea Isle City,NJ,59
+160,Supertel Itasca,29887,60143,41.97351,-88.02071,Itasca,IL,103
+161,Supertel Cropseyville,16914,12052,42.75767,-73.47847,Cropseyville,NY,112
+162,Supertel Newport,1185,8345,39.28816,-75.14668,Newport,NJ,212
+163,Supertel Hollywood,27656,33021,26.02277,-80.18742,Hollywood,FL,64
+164,Supertel Watson,37884,62473,39.01986,-88.56556,Watson,IL,269
+165,Supertel Arcadia,34999,73007,35.69001,-97.32009,Arcadia,OK,165
+166,Supertel Creston,26186,68631,41.68753,-97.35074,Creston,NE,226
+167,Supertel Minneapolis,22658,55419,44.90586,-93.28743,Minneapolis,MN,285
+168,Supertel Meriden,20563,82081,41.52319,-104.40653,Meriden,WY,187
+169,Supertel Chesterfield,22021,8515,40.1163,-74.64568,Chesterfield,NJ,122
+170,Supertel Durham,2381,6422,41.46221,-72.68285,Durham,CT,257
+171,Supertel Bloomfield Hills,42845,48302,42.5849,-83.29608,Bloomfield Hills,MI,266
+172,Supertel Madison,16836,53719,43.0281,-89.50003,Madison,WI,257
+173,Supertel Morven,28929,28119,34.85112,-80.01492,Morven,NC,274
+174,Supertel Pittsburgh,41135,15208,40.45387,-79.89883,Pittsburgh,PA,202
+175,Supertel East Northport,8705,11731,40.86262,-73.31703,East Northport,NY,105
+176,Supertel Sulphur Bluff,40639,75481,33.31751,-95.37485,Sulphur Bluff,TX,291
+177,Supertel Monroe,10089,10950,41.31919,-74.19825,Monroe,NY,279
+178,Supertel Auburn,20663,26325,39.09749,-80.882,Auburn,WV,85
+179,Supertel Winona,21617,67764,38.89135,-101.15041,Winona,KS,33
+180,Supertel Greenville,1444,38703,33.47081,-91.04775,Greenville,MS,147
+181,Supertel Center Line,41736,48015,42.48055,-83.02743,Center Line,MI,235
+182,Supertel Palm City,4051,34990,27.13623,-80.35655,Palm City,FL,211
+183,Supertel Manns Harbor,1200,27953,35.79298,-75.8685,Manns Harbor,NC,216
+184,Supertel Arlington,33446,22204,38.86076,-77.09894,Arlington,VA,48
+185,Supertel Alto,38326,30510,34.44194,-83.58446,Alto,GA,118
+186,Supertel Cylinder,14701,50528,43.13717,-94.54023,Cylinder,IA,291
+187,Supertel Nordman,3428,83848,48.7067,-116.92766,Nordman,ID,181
+188,Supertel East Bernstadt,11969,40729,37.2435,-84.14788,East Bernstadt,KY,262
+189,Supertel Greensboro,44089,27408,36.10321,-79.81411,Greensboro,NC,36
+190,Supertel New Berlin,34176,53151,42.97467,-88.09845,New Berlin,WI,150
+191,Supertel Hurley,42833,65675,36.93101,-93.49245,Hurley,MO,219
+192,Supertel Kinsman,805,44428,41.43458,-80.5779,Kinsman,OH,44
+193,Supertel Louisville,36044,68037,40.9844,-96.12673,Louisville,NE,65
+194,Supertel New York,18493,10001,40.75064,-73.99728,New York,NY,173
+195,Supertel Ellsworth,44339,15331,40.10754,-80.02214,Ellsworth,PA,226
+196,Supertel South Berwick,10374,3908,43.23838,-70.74795,South Berwick,ME,167
+197,Supertel Akron,14937,44320,41.07818,-81.58379,Akron,OH,187
+198,Supertel Sandpoint,29597,83864,48.43432,-116.50559,Sandpoint,ID,43
+199,Supertel Tallahassee,48212,32310,30.39924,-84.50694,Tallahassee,FL,50
+200,Supertel Newtown,38741,6470,41.3943,-73.31918,Newtown,CT,228
+201,Supertel Plainfield,45400,6374,41.6798,-71.91441,Plainfield,CT,228
+202,Supertel San Diego,30616,92130,32.94763,-117.20586,San Diego,CA,64
+203,Supertel Jersey,23531,71651,33.31472,-92.28377,Jersey,AR,130
+204,Supertel Mayhill,32144,88339,32.9561,-105.32141,Mayhill,NM,78
+205,Supertel McKnightstown,7310,17343,39.86863,-77.32948,McKnightstown,PA,164
+206,Supertel Maben,26290,25870,37.63931,-81.3813,Maben,WV,281
+207,Supertel Cambridge,29712,2140,42.39332,-71.13342,Cambridge,MA,289
+208,Supertel Valley Bend,23149,26293,38.7824,-79.9365,Valley Bend,WV,128
+209,Supertel Kirby,10787,43330,40.81349,-83.41935,Kirby,OH,119
+210,Supertel Martin,39098,57551,43.18087,-101.70012,Martin,SD,219
+211,Supertel New Haven,17050,48050,42.78486,-82.80139,New Haven,MI,108
+212,Supertel Plainfield,22608,60544,41.61393,-88.21777,Plainfield,IL,113
+213,Supertel Ingalls,32607,46048,39.9543,-85.80755,Ingalls,IN,215
+214,Supertel Foreman,38509,71836,33.71297,-94.39584,Foreman,AR,51
+215,Supertel San Angelo,21808,76902,31.54439,-100.72459,San Angelo,TX,169
+216,Supertel Swanlake,36868,83281,42.31044,-111.95953,Swanlake,ID,207
+217,Supertel Stockport,6697,52651,40.85819,-91.81323,Stockport,IA,141
+218,Supertel Lane City,45093,77453,29.23303,-96.01802,Lane City,TX,215
+219,Supertel Cloutierville,16997,71416,31.53875,-92.89558,Cloutierville,LA,258
+220,Supertel Reeds Spring,33978,65737,36.7146,-93.35796,Reeds Spring,MO,190
+221,Supertel Manchester,25894,3104,43.00926,-71.4411,Manchester,NH,25
+222,Supertel Yorba Linda,29038,92886,33.89517,-117.80154,Yorba Linda,CA,93
+223,Supertel Frost,23077,76641,32.03847,-96.78723,Frost,TX,76
+224,Supertel Kinzers,32072,17535,40.01224,-76.03813,Kinzers,PA,20
+225,Supertel Belvidere,20902,68315,40.24605,-97.53841,Belvidere,NE,212
+226,Supertel Beaumont,27450,42124,36.86534,-85.64817,Beaumont,KY,106
+227,Supertel River Pines,23408,95675,38.54548,-120.74277,River Pines,CA,40
+228,Supertel Marietta,27238,30067,33.93286,-84.46187,Marietta,GA,41
+229,Supertel Nelson,22583,56355,45.94007,-95.24031,Nelson,MN,228
+230,Supertel Highland,43416,62249,38.75469,-89.66436,Highland,IL,107
+231,Supertel Glenpool,33854,74033,35.94711,-96.00636,Glenpool,OK,198
+232,Supertel West Memphis,38952,72301,35.13363,-90.17883,West Memphis,AR,175
+233,Supertel Cazadero,601,95421,38.58276,-123.18037,Cazadero,CA,135
+234,Supertel Oxnard,48645,93035,34.19034,-119.22879,Oxnard,CA,184
+235,Supertel Poynor,4980,75782,32.0693,-95.58777,Poynor,TX,210
+236,Supertel Berne,43923,12023,42.60656,-74.16573,Berne,NY,220
+237,Supertel Edmond,40401,73013,35.62149,-97.49614,Edmond,OK,145
+238,Supertel Geneva,35387,60134,41.8784,-88.34189,Geneva,IL,291
+239,Supertel Mattawana,48536,17054,40.49746,-77.72764,Mattawana,PA,283
+240,Supertel Marble Falls,34161,72648,36.07516,-93.14399,Marble Falls,AR,177
+241,Supertel Wallaceton,20305,16876,40.96648,-78.29087,Wallaceton,PA,101
+242,Supertel Olyphant,39862,18447,41.5132,-75.61684,Olyphant,PA,296
+243,Supertel Dresden,33578,4342,44.07942,-69.73939,Dresden,ME,45
+244,Supertel Port Chester,2736,10573,41.01676,-73.67735,Port Chester,NY,77
+245,Supertel Satsop,7470,98583,47.00122,-123.4875,Satsop,WA,288
+246,Supertel Harrisburg,28131,17109,40.28986,-76.82414,Harrisburg,PA,56
+247,Supertel Deland,9025,32724,29.0506,-81.23284,Deland,FL,63
+248,Supertel Easton,4726,4740,46.64325,-67.85487,Easton,ME,187
+249,Supertel Indianapolis,43023,46237,39.67247,-86.0759,Indianapolis,IN,30
+250,Supertel Sinnamahoning,40203,15861,41.3221,-78.07246,Sinnamahoning,PA,203
+251,Supertel North Chatham,46805,12132,42.47102,-73.63362,North Chatham,NY,39
+252,Supertel Owensboro,28001,42301,37.73983,-87.24643,Owensboro,KY,268
+253,Supertel Waco,44095,76798,31.54606,-97.12085,Waco,TX,104
+254,Supertel Wellfleet,27,69170,40.79563,-100.74068,Wellfleet,NE,98
+255,Supertel Monte Rio,18716,95462,38.47263,-123.02064,Monte Rio,CA,49
+256,Supertel Las Vegas,18156,89145,36.16748,-115.27618,Las Vegas,NV,54
+257,Supertel Fort Jones,17117,96032,41.58503,-122.98291,Fort Jones,CA,235
+258,Supertel Ashtabula,10950,44004,41.85255,-80.78738,Ashtabula,OH,181
+259,Supertel North Fork,17388,93643,37.27155,-119.45004,North Fork,CA,172
+260,Supertel Hiram,47123,4041,43.86416,-70.82631,Hiram,ME,37
+261,Supertel Henry,19700,38231,36.21277,-88.42442,Henry,TN,65
+262,Supertel Fort Thomas,28208,85536,33.14063,-110.00331,Fort Thomas,AZ,269
+263,Supertel Fort Knox,6393,40121,37.92614,-85.95292,Fort Knox,KY,194
+264,Supertel Mcarthur,36801,96056,41.07178,-121.32607,Mcarthur,CA,141
+265,Supertel Litchfield,34074,62056,39.1765,-89.67165,Litchfield,IL,227
+266,Supertel Healdton,27505,73438,34.27967,-97.49808,Healdton,OK,61
+267,Supertel Glenwood,37038,98619,45.97693,-121.26568,Glenwood,WA,72
+268,Supertel Granger,24590,76530,30.71357,-97.42434,Granger,TX,22
+269,Supertel Earlsboro,774,74840,35.30488,-96.7665,Earlsboro,OK,103
+270,Supertel Concord,4600,30206,33.09671,-84.46303,Concord,GA,65
+271,Supertel Chatom,34959,36518,31.47082,-88.27546,Chatom,AL,276
+272,Supertel Saint Augustine,13946,32084,29.91412,-81.36417,Saint Augustine,FL,179
+273,Supertel Aroma Park,33451,60910,41.06426,-87.79991,Aroma Park,IL,101
+274,Supertel Hazel,41064,42049,36.51874,-88.31828,Hazel,KY,295
+275,Supertel Dunreith,30270,47337,39.80286,-85.43736,Dunreith,IN,196
+276,Supertel Booneville,17530,41314,37.44008,-83.63743,Booneville,KY,126
+277,Supertel Rhodes,9056,50234,41.89165,-93.17916,Rhodes,IA,252
+278,Supertel Adrian,25174,56110,43.62115,-95.94093,Adrian,MN,29
+279,Supertel Randolph,43658,14772,42.15383,-78.95086,Randolph,NY,90
+280,Supertel Forest Ranch,48891,95942,39.98954,-121.58872,Forest Ranch,CA,110
+281,Supertel Fair Oaks,24782,47943,41.0594,-87.28006,Fair Oaks,IN,265
+282,Supertel Marshall,24393,62441,39.39392,-87.69795,Marshall,IL,67
+283,Supertel Longford,21561,67458,39.16595,-97.30441,Longford,KS,38
+284,Supertel Ellisburg,25496,13636,43.74107,-76.12762,Ellisburg,NY,296
+285,Supertel De Soto,41361,66018,38.96524,-94.97232,De Soto,KS,67
+286,Supertel Milton,25,27305,36.52029,-79.22553,Milton,NC,155
+287,Supertel Cass City,45980,48726,43.60776,-83.16833,Cass City,MI,180
+288,Supertel Pablo,47618,59855,47.60032,-114.11787,Pablo,MT,292
+289,Supertel Westland,36192,48186,42.29481,-83.37461,Westland,MI,288
+290,Supertel Palmetto,20546,71358,30.72631,-91.87553,Palmetto,LA,276
+291,Supertel Perth Amboy,37336,8861,40.52087,-74.27397,Perth Amboy,NJ,268
+292,Supertel Fitzwilliam,16891,3447,42.7592,-72.14794,Fitzwilliam,NH,133
+293,Supertel McDonough,35546,13801,42.50327,-75.78028,McDonough,NY,134
+294,Supertel Hitterdal,23012,56552,46.9814,-96.21602,Hitterdal,MN,213
+295,Supertel Federal Way,1033,98003,47.30596,-122.31465,Federal Way,WA,206
+296,Supertel Santa Fe,4883,77517,29.36253,-95.1369,Santa Fe,TX,124
+297,Supertel Conroe,12561,77306,30.2799,-95.31337,Conroe,TX,100
+298,Supertel Westhoff,42659,77994,29.17977,-97.46563,Westhoff,TX,201
+299,Supertel Ann Arbor,48035,48105,42.33117,-83.70587,Ann Arbor,MI,24
+300,Supertel Roosevelt,26022,85545,33.53759,-111.11955,Roosevelt,AZ,244
+301,Supertel Agoura Hills,39661,91301,34.12314,-118.75685,Agoura Hills,CA,20
+302,Supertel Ogden,4825,84408,41.19252,-111.93966,Ogden,UT,102
+303,Supertel Mellott,29659,47958,40.16452,-87.14862,Mellott,IN,45
+304,Supertel Cambridge,24244,67023,37.33467,-96.61288,Cambridge,KS,289
+305,Supertel Harbor Beach,35526,48441,43.80515,-82.71727,Harbor Beach,MI,79
+306,Supertel Toledo,16740,43607,41.64761,-83.60582,Toledo,OH,165
+307,Supertel Berea,23124,44017,41.36867,-81.86303,Berea,OH,24
+308,Supertel Andalusia,24980,36421,31.32769,-86.50903,Andalusia,AL,178
+309,Supertel Mosby,49956,59058,46.98517,-107.79652,Mosby,MT,176
+310,Supertel Corona,1055,92882,33.86367,-117.59989,Corona,CA,116
+311,Supertel Burbank,48463,91501,34.19469,-118.29431,Burbank,CA,106
+312,Supertel North Platte,49427,69101,41.1502,-100.80319,North Platte,NE,45
+313,Supertel Hepzibah,10386,26369,39.33527,-80.33117,Hepzibah,WV,205
+314,Supertel Big Sandy,45672,24816,37.46139,-81.70516,Big Sandy,WV,232
+315,Supertel Brooklyn,9281,11208,40.67481,-73.87243,Brooklyn,NY,251
+316,Supertel Austin,28298,78749,30.21329,-97.85732,Austin,TX,75
+317,Supertel Onaway,9775,49765,45.33379,-84.25229,Onaway,MI,193
+318,Supertel Butler,43412,64730,38.25789,-94.29236,Butler,MO,131
+319,Supertel Liberty,12741,4949,44.36712,-69.34029,Liberty,ME,32
+320,Supertel Anderson,1319,29625,34.55577,-82.76294,Anderson,SC,181
+321,Supertel Spring Valley,22464,61362,41.35138,-89.22819,Spring Valley,IL,260
+322,Supertel Broadbent,29663,97414,42.96653,-124.15026,Broadbent,OR,229
+323,Supertel Charlo,42915,59824,47.41817,-114.20362,Charlo,MT,173
+324,Supertel Fayetteville,27274,30214,33.49222,-84.48697,Fayetteville,GA,249
+325,Supertel West Lafayette,39346,43845,40.25692,-81.73144,West Lafayette,OH,136
+326,Supertel Washburn,18380,65772,36.59624,-94.03479,Washburn,MO,132
+327,Supertel Washington,8954,20204,38.88556,-77.01443,Washington,DC,38
+328,Supertel Farmington Falls,12942,4940,44.62018,-70.07508,Farmington Falls,ME,166
+329,Supertel Kiester,12851,56051,43.53649,-93.70868,Kiester,MN,80
+330,Supertel North Myrtle Beach,30606,29582,33.83423,-78.66049,North Myrtle Beach,SC,159
+331,Supertel Milford,19817,6461,41.23937,-73.0752,Milford,CT,151
+332,Supertel Taylorsville,40597,30178,34.09709,-84.97051,Taylorsville,GA,129
+333,Supertel Caruthersville,33693,63830,36.14065,-89.6871,Caruthersville,MO,247
+334,Supertel Reeseville,46262,53579,43.2894,-88.87545,Reeseville,WI,223
+335,Supertel Buffalo,15254,14261,43.00188,-78.7848,Buffalo,NY,173
+336,Supertel Miami Beach,37254,33140,25.81606,-80.13895,Miami Beach,FL,103
+337,Supertel Clarksville,32341,45113,39.39991,-83.98561,Clarksville,OH,55
+338,Supertel Diamond,44263,44412,41.09671,-81.0229,Diamond,OH,91
+339,Supertel Safety Harbor,42306,34695,28.00927,-82.69673,Safety Harbor,FL,34
+340,Supertel Muskegon,47323,49443,43.22204,-86.24155,Muskegon,MI,113
+341,Supertel Upland,21432,46989,40.45056,-85.48115,Upland,IN,48
+342,Supertel Ulysses,37905,16948,41.85369,-77.75683,Ulysses,PA,179
+343,Supertel Des Arc,18302,63636,37.29542,-90.57549,Des Arc,MO,174
+344,Supertel Henderson,449,48841,43.11372,-84.2392,Henderson,MI,269
+345,Supertel Berlin,12857,44610,40.56078,-81.80139,Berlin,OH,81
+346,Supertel Hampshire,23812,60140,42.08003,-88.5086,Hampshire,IL,187
+347,Supertel Freedom,5191,4941,44.4654,-69.3017,Freedom,ME,122
+348,Supertel Venus,25516,16364,41.36379,-79.51517,Venus,PA,238
+349,Supertel Johnstown,8844,15909,40.40783,-78.87047,Johnstown,PA,243
+350,Supertel Gates Mills,25172,44040,41.53128,-81.4112,Gates Mills,OH,186
+351,Supertel Montezuma,26797,28653,36.06615,-81.90072,Montezuma,NC,124
+352,Supertel Goodwell,31471,73939,36.76824,-101.78344,Goodwell,OK,159
+353,Supertel Wingina,31380,24599,37.63289,-78.72452,Wingina,VA,80
+354,Supertel Taylors,18608,29687,34.9855,-82.32833,Taylors,SC,251
+355,Supertel Potter,30871,69156,41.27689,-103.34587,Potter,NE,112
+356,Supertel Livingston,40587,40445,37.3125,-84.21159,Livingston,KY,277
+357,Supertel Cottage Hills,18315,62018,38.90847,-90.08574,Cottage Hills,IL,147
+358,Supertel Verona,19627,41092,38.81811,-84.70115,Verona,KY,205
+359,Supertel Long Beach,35361,98631,46.37988,-124.02241,Long Beach,WA,224
+360,Supertel Wiergate,633,75977,31.05997,-93.78455,Wiergate,TX,64
+361,Supertel Brown City,19502,48416,43.21791,-82.98476,Brown City,MI,237
+362,Supertel Buffalo,10424,57720,45.5497,-103.60655,Buffalo,SD,257
+363,Supertel Milesburg,47912,16853,40.94045,-77.78638,Milesburg,PA,293
+364,Supertel Bunkerville,40708,89007,36.68605,-114.22915,Bunkerville,NV,237
+365,Supertel Alexandria,2154,22309,38.71931,-77.10724,Alexandria,VA,80
+366,Supertel Wingate,18055,21675,38.29011,-76.0884,Wingate,MD,94
+367,Supertel Carthage,26132,39051,32.7868,-89.50718,Carthage,MS,269
+368,Supertel Ferndale,27662,34729,28.61764,-81.69901,Ferndale,FL,30
+369,Supertel Forest Hill,13009,71430,31.06764,-92.53135,Forest Hill,LA,109
+370,Supertel York,9387,17407,39.8855,-76.71244,York,PA,211
+371,Supertel Danvers,18277,56231,45.2788,-95.76381,Danvers,MN,99
+372,Supertel Posen,14104,49776,45.24634,-83.6873,Posen,MI,91
+373,Supertel Balch Springs,4796,75180,32.71937,-96.61841,Balch Springs,TX,185
+374,Supertel Tulsa,44719,74129,36.12669,-95.8701,Tulsa,OK,100
+375,Supertel Berea,9326,26327,39.12283,-80.9406,Berea,WV,198
+376,Supertel Clyde Park,4910,59018,45.85791,-110.62326,Clyde Park,MT,289
+377,Supertel Marysville,40310,59640,46.76814,-112.34922,Marysville,MT,260
+378,Supertel Moorcroft,37888,82721,44.46199,-104.89808,Moorcroft,WY,203
+379,Supertel Shannon,36495,61078,42.16729,-89.73062,Shannon,IL,188
+380,Supertel Frostburg,41645,21532,39.65559,-78.96025,Frostburg,MD,96
+381,Supertel Butte,13463,58723,47.75433,-100.60281,Butte,ND,74
+382,Supertel Mapleton,29946,84664,40.12627,-111.57712,Mapleton,UT,20
+383,Supertel Middletown,43547,52638,40.79864,-91.24577,Middletown,IA,206
+384,Supertel Puyallup,2777,98374,47.12904,-122.26156,Puyallup,WA,217
+385,Supertel Roanoke,14080,24011,37.27048,-79.94128,Roanoke,VA,150
+386,Supertel Alamo,23315,89001,37.40035,-115.39564,Alamo,NV,78
+387,Supertel Stroud,14625,74079,35.74368,-96.65592,Stroud,OK,102
+388,Supertel Meally,185,41234,37.79654,-82.74161,Meally,KY,246
+389,Supertel Carman,3497,61425,40.76297,-91.04575,Carman,IL,178
+390,Supertel Annapolis,49982,21403,38.94433,-76.49296,Annapolis,MD,71
+391,Supertel Fredonia,9284,16124,41.33336,-80.26486,Fredonia,PA,262
+392,Supertel Brownfield,31721,15416,39.85903,-79.72286,Brownfield,PA,29
+393,Supertel Waverly,19994,36879,32.73091,-85.55449,Waverly,AL,63
+394,Supertel Nelson,8984,3457,43.00282,-72.12933,Nelson,NH,86
+395,Supertel Gresham,37742,97030,45.50896,-122.43135,Gresham,OR,231
+396,Supertel Mayfield,39278,67103,37.26439,-97.55977,Mayfield,KS,233
+397,Supertel Gary,15257,46407,41.57844,-87.33047,Gary,IN,107
+398,Supertel Irving,3446,75060,32.79774,-96.95295,Irving,TX,64
+399,Supertel Buckner,14883,62819,37.97507,-89.00283,Buckner,IL,28
+400,Supertel Parish,5617,13131,43.41964,-76.09539,Parish,NY,248
+401,Supertel Pauls Valley,5261,73075,34.75187,-97.23428,Pauls Valley,OK,204
+402,Supertel Evergreen Park,25611,60805,41.72201,-87.70243,Evergreen Park,IL,169
+403,Supertel Sassamansville,32308,19472,40.34036,-75.58189,Sassamansville,PA,236
+404,Supertel Laredo,45814,78040,27.51349,-99.50232,Laredo,TX,196
+405,Supertel Ecru,6738,38841,34.34943,-89.02237,Ecru,MS,118
+406,Supertel Gravette,41570,72736,36.41402,-94.46548,Gravette,AR,48
+407,Supertel Hitchcock,30007,73744,35.94912,-98.29643,Hitchcock,OK,47
+408,Supertel Southwick,30580,1077,42.05441,-72.77851,Southwick,MA,164
+409,Supertel Donna,22642,78537,26.17322,-98.05744,Donna,TX,35
+410,Supertel Sparks,5776,69220,42.92256,-100.17198,Sparks,NE,50
+411,Supertel Du Pont,5896,31630,30.92354,-82.85667,Du Pont,GA,45
+412,Supertel Kingston,16707,60145,42.09396,-88.77719,Kingston,IL,160
+413,Supertel Ellington,49705,14732,42.2188,-79.10696,Ellington,NY,252
+414,Supertel Jewett,46946,12444,42.24942,-74.28993,Jewett,NY,272
+415,Supertel Gibbon Glade,42127,15440,39.73775,-79.64347,Gibbon Glade,PA,20
+416,Supertel Midville,44997,30441,32.81467,-82.23682,Midville,GA,174
+417,Supertel Baldwin,1649,70514,29.8452,-91.55301,Baldwin,LA,228
+418,Supertel Greenwich,17283,8323,39.39557,-75.36605,Greenwich,NJ,33
+419,Supertel Greenville,42441,42345,37.14839,-87.18943,Greenville,KY,281
+420,Supertel Sioux City,43839,51105,42.50808,-96.3671,Sioux City,IA,43
+421,Supertel Nimitz,34435,25978,37.62861,-80.94138,Nimitz,WV,226
+422,Supertel Birmingham,40523,35243,33.44185,-86.74055,Birmingham,AL,221
+423,Supertel Paicines,1889,95043,36.51652,-120.97677,Paicines,CA,232
+424,Supertel Ludowici,4917,31316,31.7183,-81.73457,Ludowici,GA,298
+425,Supertel Wheelwright,48769,1094,42.36481,-72.13548,Wheelwright,MA,118
+426,Supertel Cedar Key,31951,32625,29.23005,-82.98331,Cedar Key,FL,106
+427,Supertel Warren,7205,5674,44.11112,-72.86081,Warren,VT,161
+428,Supertel Falmouth,38412,46127,39.71766,-85.3158,Falmouth,IN,33
+429,Supertel Atwater,30798,95301,37.30634,-120.65119,Atwater,CA,178
+430,Supertel Fishkill,14752,12524,41.53092,-73.89245,Fishkill,NY,45
+431,Supertel Riverside,13894,92507,33.97464,-117.32234,Riverside,CA,261
+432,Supertel Los Angeles,23976,90007,34.02819,-118.28486,Los Angeles,CA,42
+433,Supertel Conrad,14758,50621,42.24738,-92.91904,Conrad,IA,112
+434,Supertel Walnut Creek,13640,94597,37.91768,-122.0718,Walnut Creek,CA,200
+435,Supertel Worcester,6484,1606,42.31367,-71.79614,Worcester,MA,99
+436,Supertel Montrose,26755,52639,40.52763,-91.46409,Montrose,IA,263
+437,Supertel Friedheim,4323,63747,37.55993,-89.81121,Friedheim,MO,141
+438,Supertel Shickshinny,12702,18655,41.18327,-76.19619,Shickshinny,PA,96
+439,Supertel Pope Valley,5736,94567,38.66342,-122.4349,Pope Valley,CA,261
+440,Supertel Doniphan,44233,63935,36.67053,-90.92055,Doniphan,MO,99
+441,Supertel Fort Fairfield,11000,4742,46.77766,-67.85526,Fort Fairfield,ME,116
+442,Supertel Hardenville,36896,65666,36.57829,-92.36065,Hardenville,MO,300
+443,Supertel Lynchburg,47370,24503,37.45272,-79.24286,Lynchburg,VA,198
+444,Supertel Machesney Park,8355,61115,42.36365,-89.02869,Machesney Park,IL,168
+445,Supertel West Hempstead,48330,11552,40.6916,-73.65073,West Hempstead,NY,59
+446,Supertel Moscow,40744,18444,41.33912,-75.54667,Moscow,PA,202
+447,Supertel East Worcester,14919,12064,42.60711,-74.65887,East Worcester,NY,191
+448,Supertel Lyons,11024,48851,42.95469,-84.9364,Lyons,MI,167
+449,Supertel Escondido,29670,92027,33.13263,-116.98335,Escondido,CA,119
+450,Supertel Arlington,20477,76005,32.80057,-97.08001,Arlington,TX,123
+451,Supertel Bruneau,28841,83604,42.52727,-115.84966,Bruneau,ID,193
+452,Supertel Westfield,19716,4787,46.55166,-67.97685,Westfield,ME,50
+453,Supertel Liebenthal,43749,67553,38.65444,-99.32017,Liebenthal,KS,172
+454,Supertel Dawson,10175,62520,39.82185,-89.45904,Dawson,IL,202
+455,Supertel Nesquehoning,21954,18240,40.86279,-75.84727,Nesquehoning,PA,140
+456,Supertel Novice,34093,79538,31.97891,-99.69177,Novice,TX,229
+457,Supertel Montesano,8781,98563,47.2064,-123.60824,Montesano,WA,221
+458,Supertel Sanbornton,29138,3269,43.53,-71.60219,Sanbornton,NH,88
+459,Supertel Las Vegas,18195,89109,36.12603,-115.16327,Las Vegas,NV,44
+460,Supertel Kure Beach,36883,28449,33.98151,-77.92748,Kure Beach,NC,76
+461,Supertel Mcgregor,5841,55760,46.62491,-93.27049,Mcgregor,MN,102
+462,Supertel Casa Grande,31925,85194,32.89675,-111.62439,Casa Grande,AZ,213
+463,Supertel Ames,37412,73718,36.20799,-98.16898,Ames,OK,92
+464,Supertel Dell Rapids,5069,57022,43.85081,-96.7327,Dell Rapids,SD,26
+465,Supertel Lincoln,33056,3251,44.0796,-71.65276,Lincoln,NH,35
+466,Supertel Bondsville,11270,1009,42.21133,-72.34189,Bondsville,MA,86
+467,Supertel Meriden,23993,6451,41.54203,-72.82364,Meriden,CT,87
+468,Supertel Moundville,16444,35474,32.93679,-87.57226,Moundville,AL,115
+469,Supertel Tarboro,46933,27886,35.90369,-77.52248,Tarboro,NC,178
+470,Supertel Fluker,10655,70436,30.83057,-90.53315,Fluker,LA,135
+471,Supertel Conway,18303,29527,33.78271,-79.14715,Conway,SC,59
+472,Supertel Avoca,26882,51521,41.47987,-95.34526,Avoca,IA,105
+473,Supertel Cross Fork,45846,17729,41.49798,-77.74106,Cross Fork,PA,47
+474,Supertel Granville,17399,43023,40.07603,-82.53061,Granville,OH,205
+475,Supertel Vernonia,40601,97064,45.87276,-123.2309,Vernonia,OR,240
+476,Supertel Sacramento,43911,95816,38.57555,-121.46543,Sacramento,CA,57
+477,Supertel Bement,25034,61813,39.90933,-88.55796,Bement,IL,262
+478,Supertel Kennett,1745,63857,36.22402,-90.04612,Kennett,MO,211
+479,Supertel De Soto,1110,66018,38.96524,-94.97232,De Soto,KS,125
+480,Supertel East Barre,48474,5649,44.14004,-72.36589,East Barre,VT,46
+481,Supertel Patrick,19126,29584,34.5764,-80.05419,Patrick,SC,203
+482,Supertel Pomona,42098,8240,39.48676,-74.53633,Pomona,NJ,200
+483,Supertel Wyola,28566,59089,45.09259,-107.34476,Wyola,MT,140
+484,Supertel Woodsboro,43434,21798,39.53858,-77.29985,Woodsboro,MD,133
+485,Supertel Morganton,44940,30560,34.87785,-84.19528,Morganton,GA,165
+486,Supertel Zolfo Springs,2078,33890,27.4558,-81.68354,Zolfo Springs,FL,33
+487,Supertel Matthews,25801,28104,35.06017,-80.69666,Matthews,NC,154
+488,Supertel Anvik,30091,99558,62.65411,-160.21396,Anvik,AK,41
+489,Supertel Huddy,14948,41535,37.59368,-82.28422,Huddy,KY,127
+490,Supertel Saint Cloud,14678,34772,28.16534,-81.27273,Saint Cloud,FL,268
+491,Supertel Eunice,45423,65468,37.25434,-91.79824,Eunice,MO,115
+492,Supertel South Milford,43017,46786,41.53156,-85.27269,South Milford,IN,230
+493,Supertel Goshen,20560,10924,41.3788,-74.3512,Goshen,NY,100
+494,Supertel Abie,11474,68001,41.33369,-96.95489,Abie,NE,242
+495,Supertel Norfolk,27799,6058,41.97186,-73.1958,Norfolk,CT,171
+496,Supertel Tacoma,28655,98466,47.22842,-122.53479,Tacoma,WA,221
+497,Supertel Salvisa,27525,40372,37.90899,-84.88537,Salvisa,KY,174
+498,Supertel North Adams,48274,49262,41.96162,-84.4673,North Adams,MI,233
+499,Supertel Hecla,34730,57446,45.86698,-98.15423,Hecla,SD,43
+500,Supertel Silver Creek,32058,30173,34.13541,-85.14217,Silver Creek,GA,226
+501,Supertel Sheldon,10378,5483,44.88322,-72.98484,Sheldon,VT,113
+502,Supertel Algonquin,34094,60102,42.16406,-88.30928,Algonquin,IL,69
+503,Supertel Eustis,2153,69028,40.64107,-100.04708,Eustis,NE,195
+504,Supertel Lakeland,47291,33810,28.13027,-82.03989,Lakeland,FL,217
+505,Supertel Mendon,7022,62351,40.11374,-91.26751,Mendon,IL,107
+506,Supertel Austin,32019,78702,30.26339,-97.7144,Austin,TX,38
+507,Supertel Chugiak,22505,99567,61.26625,-148.86933,Chugiak,AK,123
+508,Supertel Fields Landing,18367,95537,40.745,-124.21472,Fields Landing,CA,179
+509,Supertel Columbia,11598,65203,38.89497,-92.39928,Columbia,MO,176
+510,Supertel Campti,3642,71411,31.90466,-93.08894,Campti,LA,99
+511,Supertel Mansfield,12587,57460,45.27323,-98.66585,Mansfield,SD,86
+512,Supertel Wentworth,45054,3282,43.86006,-71.9295,Wentworth,NH,173
+513,Supertel Laurel Hill,7668,28351,34.84098,-79.56102,Laurel Hill,NC,94
+514,Supertel Frederick,2612,21704,39.3506,-77.3735,Frederick,MD,90
+515,Supertel San Juan,42640,78589,26.15349,-98.15979,San Juan,TX,195
+516,Supertel Superior,41115,51363,43.43363,-94.94678,Superior,IA,199
+517,Supertel Newton,26827,2458,42.35294,-71.18763,Newton,MA,271
+518,Supertel Spirit Lake,33463,83869,47.98095,-116.89239,Spirit Lake,ID,231
+519,Supertel Sedalia,44638,27342,36.06641,-79.6186,Sedalia,NC,280
+520,Supertel Tulsa,22469,74146,36.09784,-95.85344,Tulsa,OK,52
+521,Supertel Mesquite,14442,88048,32.14966,-106.6581,Mesquite,NM,179
+522,Supertel Crater Lake,29553,97604,42.97778,-122.20674,Crater Lake,OR,289
+523,Supertel Bluff Dale,38579,76433,32.30662,-98.01096,Bluff Dale,TX,253
+524,Supertel Lanagan,15796,64847,36.59217,-94.43863,Lanagan,MO,97
+525,Supertel Douglass,48375,67039,37.52163,-96.97322,Douglass,KS,240
+526,Supertel Placerville,36475,95667,38.73407,-120.79216,Placerville,CA,70
+527,Supertel Schodack Landing,10854,12156,42.47764,-73.74354,Schodack Landing,NY,156
+528,Supertel Cape Vincent,19841,13618,44.11641,-76.27851,Cape Vincent,NY,210
+529,Supertel Aurora,11954,80014,39.66353,-104.83781,Aurora,CO,183
+530,Supertel New York,13286,10027,40.81187,-73.95459,New York,NY,205
+531,Supertel New Orleans,12369,70163,29.94998,-90.07546,New Orleans,LA,53
+532,Supertel Saxis,43459,23427,37.9124,-75.71344,Saxis,VA,217
+533,Supertel Mount Pleasant,6442,84647,39.52708,-111.40658,Mount Pleasant,UT,243
+534,Supertel South Plymouth,23535,13844,42.60927,-75.68083,South Plymouth,NY,267
+535,Supertel Queens Village,45226,11427,40.73094,-73.74569,Queens Village,NY,194
+536,Supertel Pleasant Lake,47732,49272,42.39299,-84.34974,Pleasant Lake,MI,268
+537,Supertel Pisgah,16328,51564,41.81309,-95.90801,Pisgah,IA,196
+538,Supertel Lake City,23286,81235,37.99363,-107.33098,Lake City,CO,81
+539,Supertel San Francisco,2688,94129,37.79743,-122.46662,San Francisco,CA,198
+540,Supertel Georgetown,8783,40324,38.24786,-84.54956,Georgetown,KY,130
+541,Supertel Smithville,48862,37166,35.92444,-85.78978,Smithville,TN,172
+542,Supertel Waco,33094,30182,33.65603,-85.24628,Waco,GA,68
+543,Supertel Leeds,26149,58346,48.28953,-99.42218,Leeds,ND,254
+544,Supertel Dowelltown,23944,37059,35.98611,-85.90798,Dowelltown,TN,131
+545,Supertel Newport,7678,17074,40.47983,-77.14456,Newport,PA,112
+546,Supertel Kennebunkport,38299,4046,43.42027,-70.4921,Kennebunkport,ME,141
+547,Supertel Gaithersburg,10117,20879,39.16992,-77.17416,Gaithersburg,MD,178
+548,Supertel Meriden,31619,6450,41.53332,-72.77399,Meriden,CT,260
+549,Supertel Arkansas City,46854,67005,37.06722,-96.99645,Arkansas City,KS,229
+550,Supertel Lexington,30054,40508,38.05004,-84.50018,Lexington,KY,294
+551,Supertel Canaan,8730,47224,38.88816,-85.22474,Canaan,IN,104
+552,Supertel Renner,10401,57055,43.66638,-96.73973,Renner,SD,172
+553,Supertel Parker,46685,66072,38.31772,-94.9741,Parker,KS,178
+554,Supertel Metamora,10109,61548,40.80887,-89.41311,Metamora,IL,141
+555,Supertel Gordon,4204,76453,32.57202,-98.33908,Gordon,TX,144
+556,Supertel Bethel,6123,99559,60.76487,-161.90671,Bethel,AK,88
+557,Supertel Bloomington,1034,83223,42.18249,-111.40327,Bloomington,ID,159
+558,Supertel Middlesboro,35137,40965,36.62469,-83.73461,Middlesboro,KY,254
+559,Supertel Loganville,12969,17342,39.85275,-76.70756,Loganville,PA,246
+560,Supertel Baton Rouge,38634,70810,30.34637,-91.07998,Baton Rouge,LA,179
+561,Supertel Aquasco,11996,20608,38.58638,-76.70702,Aquasco,MD,129
+562,Supertel Benton,49412,63736,37.08033,-89.52072,Benton,MO,173
+563,Supertel Guymon,12509,73942,36.74452,-101.49555,Guymon,OK,239
+564,Supertel Isabella,12349,15447,39.9445,-79.93257,Isabella,PA,96
+565,Supertel Union,37808,41091,38.92056,-84.7379,Union,KY,111
+566,Supertel Mexican Springs,45133,87320,35.80762,-108.87136,Mexican Springs,NM,159
+567,Supertel Barbourville,32478,40906,36.88828,-83.87546,Barbourville,KY,76
+568,Supertel Smoaks,38757,29481,33.11382,-80.80301,Smoaks,SC,273
+569,Supertel Florence,46125,29505,34.12348,-79.68974,Florence,SC,100
+570,Supertel Hettick,25081,62649,39.36451,-90.0664,Hettick,IL,84
+571,Supertel Aroma Park,3752,60910,41.06426,-87.79991,Aroma Park,IL,126
+572,Supertel Blue Springs,42807,38828,34.42365,-88.86789,Blue Springs,MS,44
+573,Supertel Duluth,27911,55811,46.83767,-92.21993,Duluth,MN,158
+574,Supertel Prince George,21840,23875,37.22941,-77.25845,Prince George,VA,258
+575,Supertel Starbuck,7900,99359,46.53325,-118.15697,Starbuck,WA,164
+576,Supertel Pemberton,23751,8068,39.9617,-74.667,Pemberton,NJ,101
+577,Supertel Jamaica,30779,11451,40.7012,-73.79579,Jamaica,NY,179
+578,Supertel National Park,7973,8063,39.86758,-75.18509,National Park,NJ,300
+579,Supertel Old Chatham,43314,12136,42.43249,-73.56016,Old Chatham,NY,164
+580,Supertel Bethune,48550,80805,39.29378,-102.44923,Bethune,CO,28
+581,Supertel Superior,12800,51363,43.43363,-94.94678,Superior,IA,116
+582,Supertel Cromwell,32408,74837,35.34321,-96.4561,Cromwell,OK,29
+583,Supertel Everton,42850,72633,36.14023,-92.87572,Everton,AR,97
+584,Supertel Rapelje,13406,59067,45.96827,-109.23433,Rapelje,MT,185
+585,Supertel Kiahsville,25551,25534,38.08065,-82.27781,Kiahsville,WV,79
+586,Supertel Kansas City,29856,64124,39.10718,-94.5391,Kansas City,MO,240
+587,Supertel Daleville,12022,39326,32.59814,-88.67904,Daleville,MS,269
+588,Supertel Sioux Falls,43704,57110,43.54445,-96.63812,Sioux Falls,SD,274
+589,Supertel Palm Bay,42106,32905,28.03136,-80.59997,Palm Bay,FL,275
+590,Supertel Lawton,19239,73507,34.74802,-98.50201,Lawton,OK,133
+591,Supertel Stewart,26100,37175,36.32349,-87.89678,Stewart,TN,108
+592,Supertel Bethel,22205,19931,38.56928,-75.61029,Bethel,DE,182
+593,Supertel Roosevelt,29913,8555,40.22116,-74.473,Roosevelt,NJ,295
+594,Supertel Gardendale,13661,79758,32.0112,-102.33569,Gardendale,TX,216
+595,Supertel Carmichael,33211,95608,38.62611,-121.32886,Carmichael,CA,90
+596,Supertel Townsend,3753,1469,42.66514,-71.69161,Townsend,MA,186
+597,Supertel Vandergrift,10909,15690,40.6455,-79.54243,Vandergrift,PA,98
+598,Supertel Canvas,5526,26662,38.25813,-80.7695,Canvas,WV,34
+599,Supertel Gladwin,7828,48624,44.05919,-84.45859,Gladwin,MI,48
+600,Supertel North Platte,15218,69101,41.1502,-100.80319,North Platte,NE,217
+601,Supertel Tampa,21164,33611,27.89059,-82.50632,Tampa,FL,254
+602,Supertel Sunnyvale,2617,94087,37.35164,-122.03669,Sunnyvale,CA,265
+603,Supertel Tippecanoe,37035,46570,41.20766,-86.1207,Tippecanoe,IN,287
+604,Supertel Denver,46921,80215,39.74412,-105.1158,Denver,CO,283
+605,Supertel Roseland,22377,7068,40.82077,-74.30862,Roseland,NJ,47
+606,Supertel Cloverdale,23293,46120,39.51252,-86.78711,Cloverdale,IN,207
+607,Supertel New York,46501,10022,40.75856,-73.96787,New York,NY,104
+608,Supertel New York,20304,10006,40.70949,-74.01306,New York,NY,201
+609,Supertel Minneapolis,20678,55448,45.1908,-93.30209,Minneapolis,MN,219
+610,Supertel Daly City,5397,94014,37.6907,-122.44769,Daly City,CA,169
+611,Supertel Mayfield,35294,12117,43.16894,-74.25557,Mayfield,NY,184
+612,Supertel Mansfield,33327,98830,47.88702,-119.52278,Mansfield,WA,68
+613,Supertel Groveland,4829,61535,40.58578,-89.52316,Groveland,IL,180
+614,Supertel Barney,30476,58008,46.30816,-97.00237,Barney,ND,252
+615,Supertel Apulia Station,49873,13020,42.81646,-76.07458,Apulia Station,NY,146
+616,Supertel Skwentna,16399,99667,61.85447,-151.82056,Skwentna,AK,283
+617,Supertel Somerset,351,46984,40.66777,-85.82975,Somerset,IN,200
+618,Supertel Savanna,40808,61074,42.12615,-90.13061,Savanna,IL,161
+619,Supertel Townshend,786,5353,43.06501,-72.66484,Townshend,VT,266
+620,Supertel Milford,30701,48380,42.57902,-83.66602,Milford,MI,213
+621,Supertel Irwin,24477,83428,43.3833,-111.16093,Irwin,ID,298
+622,Supertel Union,3441,97883,45.14264,-117.64047,Union,OR,142
+623,Supertel Stewartville,30846,55976,43.86378,-92.48394,Stewartville,MN,177
+624,Supertel Port Sulphur,32783,70083,29.52342,-89.85211,Port Sulphur,LA,258
+625,Supertel Colbert,31806,30628,34.03115,-83.21364,Colbert,GA,59
+626,Supertel Clover,23605,24534,36.87835,-78.76691,Clover,VA,135
+627,Supertel Golconda,33167,89414,41.04934,-117.22765,Golconda,NV,84
+628,Supertel Santa Anna,18259,76878,31.66659,-99.29611,Santa Anna,TX,88
+629,Supertel Pequannock,35921,7440,40.94668,-74.29421,Pequannock,NJ,38
+630,Supertel Chadds Ford,25796,19317,39.85722,-75.60244,Chadds Ford,PA,177
+631,Supertel Dallas,20056,75220,32.86692,-96.87571,Dallas,TX,37
+632,Supertel Hartland,48811,48353,42.64736,-83.71627,Hartland,MI,61
+633,Supertel Meridian,32851,95957,39.05366,-121.82379,Meridian,CA,244
+634,Supertel Lexington,2551,29072,33.9985,-81.27098,Lexington,SC,191
+635,Supertel Akiachak,26235,99551,60.92101,-161.40212,Akiachak,AK,251
+636,Supertel Vinton,7229,45686,39.00901,-82.36843,Vinton,OH,189
+637,Supertel Waynesburg,13131,44688,40.68458,-81.25757,Waynesburg,OH,111
+638,Supertel Moreno Valley,13495,92555,33.9133,-117.10867,Moreno Valley,CA,138
+639,Supertel Menomonee Falls,23317,53051,43.14905,-88.12348,Menomonee Falls,WI,176
+640,Supertel Leedey,49880,73654,35.85908,-99.37483,Leedey,OK,279
+641,Supertel Burbank,49227,60459,41.74436,-87.76872,Burbank,IL,299
+642,Supertel Alvaton,32934,42122,36.85885,-86.35718,Alvaton,KY,125
+643,Supertel Point,8385,75472,32.89177,-95.87239,Point,TX,215
+644,Supertel Davis,13323,95616,38.55819,-121.80044,Davis,CA,85
+645,Supertel Baileyville,24966,61007,42.19941,-89.59109,Baileyville,IL,119
+646,Supertel Crescent Valley,23543,89821,40.55585,-116.41218,Crescent Valley,NV,241
+647,Supertel Washington,47395,20052,38.89884,-77.04779,Washington,DC,21
+648,Supertel Coila,39513,38923,33.37829,-89.99354,Coila,MS,124
+649,Supertel Eastanollee,38414,30538,34.5035,-83.26888,Eastanollee,GA,53
+650,Supertel Camp Dennison,39081,45111,39.20033,-84.28746,Camp Dennison,OH,146
+651,Supertel Chavies,8126,41727,37.35624,-83.32352,Chavies,KY,144
+652,Supertel Morganza,26279,20660,38.36928,-76.70741,Morganza,MD,254
+653,Supertel Gallitzin,1207,16641,40.50774,-78.57146,Gallitzin,PA,264
+654,Supertel Hardy,1215,41531,37.59509,-82.23131,Hardy,KY,216
+655,Supertel Pinecliffe,10477,80471,39.93507,-105.42048,Pinecliffe,CO,278
+656,Supertel Andover,12030,57422,45.42288,-97.92199,Andover,SD,247
+657,Supertel Grand Rapids,22019,49534,42.97106,-85.78834,Grand Rapids,MI,195
+658,Supertel Chariton,1510,50049,41.03741,-93.29566,Chariton,IA,194
+659,Supertel Waco,24822,40385,37.73866,-84.13085,Waco,KY,79
+660,Supertel Mount Pocono,24916,18344,41.11735,-75.34442,Mount Pocono,PA,264
+661,Supertel East Bank,35879,25067,38.20963,-81.44018,East Bank,WV,153
+662,Supertel Almond,15957,28702,35.39346,-83.62906,Almond,NC,276
+663,Supertel Duluth,29745,55802,46.75267,-92.08197,Duluth,MN,126
+664,Supertel Cortez,3569,81321,37.31826,-108.76267,Cortez,CO,26
+665,Supertel Licking,49217,65542,37.50497,-91.88432,Licking,MO,265
+666,Supertel Frederick,25422,21701,39.44729,-77.33512,Frederick,MD,128
+667,Supertel Burnham,25930,4922,44.68739,-69.38255,Burnham,ME,107
+668,Supertel Scranton,49029,18519,41.46207,-75.63062,Scranton,PA,170
+669,Supertel Seville,16469,44273,41.0291,-81.87739,Seville,OH,222
+670,Supertel Calion,15572,71724,33.326,-92.54053,Calion,AR,297
+671,Supertel Fresno,33784,93725,36.62667,-119.73501,Fresno,CA,205
+672,Supertel Alcova,13277,82620,42.52434,-107.08132,Alcova,WY,125
+673,Supertel Baton Rouge,34592,70825,30.45197,-91.18776,Baton Rouge,LA,97
+674,Supertel Brooklyn,25847,11249,40.71121,-73.96318,Brooklyn,NY,210
+675,Supertel Albuquerque,11450,87116,35.05056,-106.56028,Albuquerque,NM,249
+676,Supertel Maryville,30713,37801,35.67134,-84.08453,Maryville,TN,202
+677,Supertel Albany,46434,12226,42.67931,-73.80987,Albany,NY,236
+678,Supertel Combs,47541,72721,35.78383,-93.78402,Combs,AR,65
+679,Supertel Dodge,42303,77334,30.77996,-95.36465,Dodge,TX,71
+680,Supertel Suches,10286,30572,34.73539,-84.07364,Suches,GA,29
+681,Supertel Moores Hill,24182,47032,39.08109,-85.05503,Moores Hill,IN,294
+682,Supertel Foss,36440,73647,35.44786,-99.16124,Foss,OK,122
+683,Supertel Beaumont,49317,92223,33.9382,-116.98137,Beaumont,CA,230
+684,Supertel Katonah,2640,10536,41.26971,-73.68943,Katonah,NY,141
+685,Supertel Enfield,47282,3748,43.60207,-72.11713,Enfield,NH,242
+686,Supertel Mendon,16595,64660,39.57226,-93.08923,Mendon,MO,270
+687,Supertel Hidalgo,33811,78557,26.10844,-98.25118,Hidalgo,TX,97
+688,Supertel McGrady,48498,28649,36.33198,-81.20326,McGrady,NC,181
+689,Supertel Hadlyme,40586,6439,41.41573,-72.39964,Hadlyme,CT,262
+690,Supertel Lehman,45600,18627,41.31559,-76.02235,Lehman,PA,232
+691,Supertel Gardner,42476,60424,41.16604,-88.32941,Gardner,IL,123
+692,Supertel Broad Run,15390,20137,38.80682,-77.72992,Broad Run,VA,274
+693,Supertel Manchester,25233,17345,40.07929,-76.72812,Manchester,PA,203
+694,Supertel Denison,48373,51442,42.02696,-95.35915,Denison,IA,197
+695,Supertel Nashville,29440,62263,38.33168,-89.39706,Nashville,IL,169
+696,Supertel Mandaree,853,58757,47.67643,-102.54685,Mandaree,ND,109
+697,Supertel Lewisville,45437,43754,39.75586,-81.24017,Lewisville,OH,105
+698,Supertel Louisburg,2117,65685,37.75642,-93.1511,Louisburg,MO,136
+699,Supertel Saint Libory,287,62282,38.35644,-89.71334,Saint Libory,IL,180
+700,Supertel Baker,2697,89311,39.16715,-114.19288,Baker,NV,141
+701,Supertel Milesburg,2389,16853,40.94045,-77.78638,Milesburg,PA,235
+702,Supertel Arthur,31483,58006,47.09682,-97.20359,Arthur,ND,35
+703,Supertel Vergennes,16060,62994,37.90593,-89.34664,Vergennes,IL,256
+704,Supertel Zapata,26439,78076,26.93149,-99.13382,Zapata,TX,127
+705,Supertel Moreno Valley,23007,92553,33.92335,-117.24532,Moreno Valley,CA,179
+706,Supertel Houston,24823,77018,29.82703,-95.42571,Houston,TX,76
+707,Supertel Boyce,48326,71409,31.31287,-92.69954,Boyce,LA,176
+708,Supertel Mayhew,16446,39753,33.48441,-88.63052,Mayhew,MS,83
+709,Supertel Edmore,1724,48829,43.40027,-85.02037,Edmore,MI,76
+710,Supertel Montclair,40224,7043,40.84411,-74.20041,Montclair,NJ,106
+711,Supertel Melrose,49751,32666,29.72301,-81.99145,Melrose,FL,105
+712,Supertel Luna Pier,7929,48157,41.81495,-83.43776,Luna Pier,MI,150
+713,Supertel Chicago,38838,60632,41.81141,-87.71348,Chicago,IL,223
+714,Supertel Warriormine,5943,24894,37.25186,-81.69052,Warriormine,WV,37
+715,Supertel Clifton,2236,66937,39.58959,-97.26493,Clifton,KS,242
+716,Supertel Bennet,27768,68317,40.67325,-96.50451,Bennet,NE,186
+717,Supertel Eden,48653,14057,42.64587,-78.87542,Eden,NY,47
+718,Supertel Orem,3799,84057,40.31427,-111.70948,Orem,UT,217
+719,Supertel Beaver Dams,34927,14812,42.29199,-76.99413,Beaver Dams,NY,176
+720,Supertel Baxley,2111,31513,31.77792,-82.34622,Baxley,GA,147
+721,Supertel Ringling,26645,73456,34.12211,-97.62412,Ringling,OK,295
+722,Supertel New Lisbon,32646,8064,39.93657,-74.61095,New Lisbon,NJ,139
+723,Supertel Liberty,24539,67351,37.14066,-95.56698,Liberty,KS,54
+724,Supertel Port Norris,3158,8349,39.266,-75.06337,Port Norris,NJ,154
+725,Supertel Jefferson,30540,50129,42.01335,-94.3764,Jefferson,IA,167
+726,Supertel Lengby,12799,56651,47.43883,-95.6172,Lengby,MN,61
+727,Supertel Wahiawa,17382,96786,21.53733,-158.02331,Wahiawa,HI,177
+728,Supertel Winters,46807,79567,31.97678,-99.97787,Winters,TX,279
+729,Supertel Fairview,33006,84629,39.76574,-111.44752,Fairview,UT,161
+730,Supertel Pleasant Shade,12105,37145,36.38179,-85.91203,Pleasant Shade,TN,252
+731,Supertel Deweese,47471,68934,40.33831,-98.15962,Deweese,NE,33
+732,Supertel Alma,16336,80420,39.31451,-106.10553,Alma,CO,147
+733,Supertel Gardendale,48878,35071,33.70376,-86.84286,Gardendale,AL,72
+734,Supertel Wrightsville Beach,9720,28480,34.21679,-77.79957,Wrightsville Beach,NC,151
+735,Supertel Hamlet,37636,28345,34.87464,-79.6716,Hamlet,NC,298
+736,Supertel Rogersville,3218,37857,36.42145,-82.94269,Rogersville,TN,149
+737,Supertel Union,2267,98592,47.32895,-123.07907,Union,WA,173
+738,Supertel Tebbetts,15759,65080,38.63231,-91.97713,Tebbetts,MO,90
+739,Supertel Point Comfort,48318,77978,28.69152,-96.5991,Point Comfort,TX,23
+740,Supertel Colonial Beach,31309,22443,38.18078,-76.99776,Colonial Beach,VA,170
+741,Supertel Saint Anthony,10470,47575,38.32314,-86.81128,Saint Anthony,IN,62
+742,Supertel Atlantic Beach,39636,28512,34.69857,-76.77505,Atlantic Beach,NC,251
+743,Supertel Guion,24406,72540,35.93355,-91.9096,Guion,AR,41
+744,Supertel Dungannon,8156,24245,36.84045,-82.51598,Dungannon,VA,221
+745,Supertel Gilsum,19558,3448,43.03996,-72.26448,Gilsum,NH,96
+746,Supertel Catonsville,785,21228,39.27272,-76.74687,Catonsville,MD,71
+747,Supertel Truchas,35739,87578,36.04392,-105.78539,Truchas,NM,104
+748,Supertel Hermosa,33320,57744,43.7773,-103.02415,Hermosa,SD,112
+749,Supertel Vulcan,553,49892,45.77547,-87.77243,Vulcan,MI,249
+750,Supertel Raymond,21100,57258,44.88434,-97.9246,Raymond,SD,136
+751,Supertel Savannah,11412,64485,39.95325,-94.8184,Savannah,MO,74
+752,Supertel Dedham,2518,51440,41.9117,-94.81379,Dedham,IA,121
+753,Supertel Aroda,38646,22709,38.32769,-78.21732,Aroda,VA,146
+754,Supertel Garland,27665,75042,32.91401,-96.67466,Garland,TX,65
+755,Supertel Beatty,13830,97621,42.51504,-121.2881,Beatty,OR,287
+756,Supertel Schuyler,6284,68661,41.49559,-97.08347,Schuyler,NE,185
+757,Supertel Milford Center,44764,43045,40.16932,-83.44975,Milford Center,OH,260
+758,Supertel Pampa,44343,79066,35.49929,-101.03423,Pampa,TX,215
+759,Supertel Emigsville,16934,17318,40.01847,-76.7265,Emigsville,PA,257
+760,Supertel South Plymouth,40072,13844,42.60927,-75.68083,South Plymouth,NY,205
+761,Supertel Garvin,36480,56132,44.20196,-95.75792,Garvin,MN,286
+762,Supertel Jackson,26147,30233,33.29492,-83.97501,Jackson,GA,192
+763,Supertel Fort Wayne,33741,46808,41.09887,-85.17619,Fort Wayne,IN,219
+764,Supertel Galena,8103,61036,42.4172,-90.39816,Galena,IL,54
+765,Supertel Sunshine,30627,70780,30.29538,-91.16993,Sunshine,LA,260
+766,Supertel Panama City,28672,32403,30.05337,-85.55679,Panama City,FL,198
+767,Supertel Troy,17459,48098,42.59903,-83.1789,Troy,MI,188
+768,Supertel Ruth,32364,89319,39.27915,-114.98724,Ruth,NV,166
+769,Supertel Portage,35433,49024,42.20207,-85.61917,Portage,MI,122
+770,Supertel Laurens,27386,13796,42.5513,-75.13644,Laurens,NY,228
+771,Supertel Wenham,43892,1984,42.60078,-70.8826,Wenham,MA,155
+772,Supertel Red Level,27041,36474,31.42664,-86.62022,Red Level,AL,115
+773,Supertel Vass,20367,28394,35.21652,-79.23777,Vass,NC,145
+774,Supertel Rudolph,17441,54475,44.48204,-89.78825,Rudolph,WI,161
+775,Supertel Tampa,7795,33621,27.8436,-82.50089,Tampa,FL,210
+776,Supertel Raleigh,36972,27607,35.82145,-78.72697,Raleigh,NC,134
+777,Supertel Altamont,17269,37301,35.42765,-85.80295,Altamont,TN,247
+778,Supertel Cavour,23020,57324,44.30154,-98.04535,Cavour,SD,83
+779,Supertel Medina,27368,58467,46.8746,-99.34103,Medina,ND,238
+780,Supertel Campbell Hill,31304,62916,37.93722,-89.56947,Campbell Hill,IL,252
+781,Supertel Washington,31191,73093,35.10321,-97.4966,Washington,OK,215
+782,Supertel Farragut,23689,51639,40.71859,-95.47362,Farragut,IA,83
+783,Supertel Neshanic Station,31932,8853,40.52879,-74.74246,Neshanic Station,NJ,240
+784,Supertel Amigo,43751,25811,37.60835,-81.3065,Amigo,WV,197
+785,Supertel West Long Branch,3349,7764,40.28832,-74.01854,West Long Branch,NJ,185
+786,Supertel Poth,7886,78147,29.07375,-98.08017,Poth,TX,194
+787,Supertel Richmond,48236,5477,44.3936,-72.99152,Richmond,VT,40
+788,Supertel Philadelphia,22685,19116,40.11655,-75.01399,Philadelphia,PA,156
+789,Supertel Pipe Creek,13957,78063,29.68793,-98.91424,Pipe Creek,TX,30
+790,Supertel Natchitoches,12579,71497,31.74902,-93.09795,Natchitoches,LA,223
+791,Supertel Blairsville,40654,15717,40.45354,-79.23896,Blairsville,PA,79
+792,Supertel Minneapolis,5059,55416,44.94961,-93.34157,Minneapolis,MN,48
+793,Supertel Robinson,19224,58478,47.16008,-99.74543,Robinson,ND,194
+794,Supertel Raleigh,11934,62977,37.85179,-88.54384,Raleigh,IL,151
+795,Supertel Rosendale,26346,12472,41.84732,-74.07447,Rosendale,NY,200
+796,Supertel San Antonio,40147,78249,29.56752,-98.614,San Antonio,TX,292
+797,Supertel Aniak,37054,99557,61.44142,-155.90217,Aniak,AK,216
+798,Supertel Lake Forest,5750,60045,42.23807,-87.87006,Lake Forest,IL,30
+799,Supertel Elsmore,15542,66732,37.80097,-95.1947,Elsmore,KS,179
+800,Supertel Fleming,21764,45729,39.41653,-81.60828,Fleming,OH,282
+801,Supertel Hartfield,6966,23071,37.54326,-76.45228,Hartfield,VA,66
+802,Supertel Prospect,32504,13435,43.30255,-75.15134,Prospect,NY,258
+803,Supertel Fredonia,49586,42411,37.20315,-88.02852,Fredonia,KY,86
+804,Supertel Washington,26736,20017,38.93813,-76.99294,Washington,DC,73
+805,Supertel Louisville,41631,40291,38.1275,-85.57823,Louisville,KY,150
+806,Supertel Golden,10819,80419,39.7284,-105.20239,Golden,CO,271
+807,Supertel Fresno,48620,43824,40.36407,-81.76116,Fresno,OH,228
+808,Supertel Gonvick,42264,56644,47.78095,-95.51263,Gonvick,MN,232
+809,Supertel Highland Park,10232,60035,42.18358,-87.8106,Highland Park,IL,289
+810,Supertel Elkhart,44946,46516,41.6756,-85.94584,Elkhart,IN,121
+811,Supertel Dunlo,19955,15930,40.29468,-78.71732,Dunlo,PA,241
+812,Supertel Opp,32509,36467,31.2795,-86.25579,Opp,AL,64
+813,Supertel Indianola,47284,15051,40.56812,-79.86076,Indianola,PA,50
+814,Supertel Oak View,1254,93022,34.40324,-119.29836,Oak View,CA,92
+815,Supertel Lesterville,5578,57040,43.06206,-97.58582,Lesterville,SD,40
+816,Supertel Cyclone,34035,24827,37.75186,-81.65997,Cyclone,WV,82
+817,Supertel Smicksburg,43767,16256,40.8661,-79.13611,Smicksburg,PA,221
+818,Supertel Laurens,526,29360,34.49361,-82.04884,Laurens,SC,69
+819,Supertel Hughson,39666,95326,37.58998,-120.8531,Hughson,CA,202
+820,Supertel Muskegon,22851,49440,43.23852,-86.25387,Muskegon,MI,164
+821,Supertel Alloy,32143,25002,38.13087,-81.25466,Alloy,WV,116
+822,Supertel Pipersville,28381,18947,40.42677,-75.1138,Pipersville,PA,188
+823,Supertel Verona,29908,38879,34.19519,-88.71209,Verona,MS,165
+824,Supertel Houston,22292,77204,29.72168,-95.34356,Houston,TX,194
+825,Supertel Fairgrove,13576,48733,43.53306,-83.59029,Fairgrove,MI,221
+826,Supertel Lejunior,43593,40849,36.89941,-83.13469,Lejunior,KY,56
+827,Supertel Lelia Lake,43567,79240,34.8836,-100.76797,Lelia Lake,TX,272
+828,Supertel Stantonsburg,46020,27883,35.59141,-77.80095,Stantonsburg,NC,44
+829,Supertel Girard,38998,44420,41.17384,-80.67726,Girard,OH,23
+830,Supertel Polk,26485,68654,41.06791,-97.7772,Polk,NE,222
+831,Supertel Bakersfield,30128,93311,35.15378,-119.16567,Bakersfield,CA,100
+832,Supertel Clarksburg,19293,26301,39.28629,-80.37735,Clarksburg,WV,149
+833,Supertel East Stroudsburg,24730,18301,41.03141,-75.18316,East Stroudsburg,PA,24
+834,Supertel Upper Tract,42333,26866,38.80493,-79.2512,Upper Tract,WV,220
+835,Supertel Fort Lauderdale,15862,33321,26.2121,-80.2697,Fort Lauderdale,FL,182
+836,Supertel Valentines,44640,23887,36.56762,-77.81658,Valentines,VA,217
+837,Supertel Borden,28942,47106,38.46071,-85.90326,Borden,IN,244
+838,Supertel Junction City,2126,96048,40.82613,-123.05594,Junction City,CA,176
+839,Supertel Saint Bernard,19493,70085,29.81629,-89.76127,Saint Bernard,LA,23
+840,Supertel Lake Preston,8785,57249,44.37111,-97.3646,Lake Preston,SD,124
+841,Supertel Brooklyn,43691,39425,31.05633,-89.06322,Brooklyn,MS,152
+842,Supertel Washington,20391,20036,38.90705,-77.04155,Washington,DC,239
+843,Supertel Wahiawa,22310,96786,21.53733,-158.02331,Wahiawa,HI,246
+844,Supertel Sumava Resorts,21506,46379,41.15682,-87.4302,Sumava Resorts,IN,271
+845,Supertel Olean,24607,65064,38.40634,-92.47664,Olean,MO,222
+846,Supertel Hyde Park,4930,2136,42.25505,-71.12662,Hyde Park,MA,156
+847,Supertel Baton Rouge,27905,70808,30.4057,-91.14236,Baton Rouge,LA,61
+848,Supertel White Hall,46184,21161,39.65983,-76.56475,White Hall,MD,56
+849,Supertel Meridian,39478,39305,32.46392,-88.72465,Meridian,MS,115
+850,Supertel Little Mountain,34981,29075,34.19985,-81.37581,Little Mountain,SC,101
+851,Supertel Garrison,192,58540,47.62427,-101.72538,Garrison,ND,52
+852,Supertel Washington,40843,6793,41.63089,-73.28835,Washington,CT,275
+853,Supertel De Mossville,21936,41033,38.77131,-84.46114,De Mossville,KY,52
+854,Supertel Monroe,28084,71202,32.39549,-92.05663,Monroe,LA,61
+855,Supertel West Point,32388,40177,38.0009,-85.92502,West Point,KY,32
+856,Supertel Pioneertown,46364,92268,34.16146,-116.55002,Pioneertown,CA,108
+857,Supertel Orleans,5638,48865,43.08785,-85.10725,Orleans,MI,284
+858,Supertel Fountain City,15095,47341,39.9741,-84.89361,Fountain City,IN,170
+859,Supertel Allamuchy,43655,7820,40.93104,-74.80424,Allamuchy,NJ,283
+860,Supertel Bunn,17048,27508,35.95882,-78.25105,Bunn,NC,148
+861,Supertel Keldron,39224,57634,45.75231,-101.87895,Keldron,SD,256
+862,Supertel Grand Rapids,28877,49525,43.02144,-85.5918,Grand Rapids,MI,20
+863,Supertel Waterbury,4431,6706,41.53285,-73.02389,Waterbury,CT,47
+864,Supertel Sierra Madre,17991,91024,34.17177,-118.04654,Sierra Madre,CA,20
+865,Supertel Salt Lake City,27372,84138,40.76675,-111.88724,Salt Lake City,UT,281
+866,Supertel Patch Grove,12202,53817,42.94028,-90.97234,Patch Grove,WI,240
+867,Supertel Chicago,43575,60642,41.90193,-87.65804,Chicago,IL,183
+868,Supertel Green Cove Springs,2683,32043,29.92991,-81.74304,Green Cove Springs,FL,206
+869,Supertel Davenport,34700,24239,37.1136,-82.14577,Davenport,VA,300
+870,Supertel Flemington,26764,8822,40.52281,-74.86576,Flemington,NJ,129
+871,Supertel New York,49842,10112,40.75891,-73.97904,New York,NY,83
+872,Supertel Boulder,28950,80310,40.00465,-105.26254,Boulder,CO,184
+873,Supertel Naugatuck,44666,25685,37.79592,-82.31426,Naugatuck,WV,259
+874,Supertel Ramsay,37344,49959,46.46987,-89.99803,Ramsay,MI,244
+875,Supertel Akron,28466,44321,41.09994,-81.65182,Akron,OH,99
+876,Supertel Emmett,17613,83617,43.93303,-116.50368,Emmett,ID,249
+877,Supertel Connelly Springs,152,28612,35.6641,-81.53619,Connelly Springs,NC,49
+878,Supertel Totowa,26427,7512,40.90385,-74.22118,Totowa,NJ,175
+879,Supertel Pike,47214,3780,44.03169,-71.97142,Pike,NH,164
+880,Supertel Boonville,19566,13309,43.47398,-75.34103,Boonville,NY,132
+881,Supertel Forks,37838,98331,47.77292,-124.1273,Forks,WA,79
+882,Supertel Carlisle,46568,17015,40.18392,-77.23234,Carlisle,PA,157
+883,Supertel Jamestown,36512,95327,37.84912,-120.4858,Jamestown,CA,143
+884,Supertel Savanna,32889,61074,42.12615,-90.13061,Savanna,IL,39
+885,Supertel Naples,11517,4055,43.97065,-70.61444,Naples,ME,95
+886,Supertel Minturn,21454,81645,39.47634,-106.46779,Minturn,CO,21
+887,Supertel Keenes,47957,62851,38.42185,-88.66237,Keenes,IL,194
+888,Supertel Southfield,48385,1259,42.07316,-73.23282,Southfield,MA,176
+889,Supertel Gilman,10620,5904,44.41597,-71.70762,Gilman,VT,35
+890,Supertel Baton Rouge,30907,70815,30.45537,-91.06648,Baton Rouge,LA,41
+891,Supertel Bowlus,43200,56314,45.81139,-94.43189,Bowlus,MN,97
+892,Supertel Juntura,34751,97911,43.85547,-118.02605,Juntura,OR,142
+893,Supertel Girdletree,42599,21829,38.09892,-75.38324,Girdletree,MD,250
+894,Supertel Martinsville,22893,8836,40.59705,-74.55446,Martinsville,NJ,39
+895,Supertel Tremont,23211,38876,34.21457,-88.23112,Tremont,MS,124
+896,Supertel Montevallo,14747,35115,33.12133,-86.89605,Montevallo,AL,176
+897,Supertel Hector,24661,14841,42.52699,-76.84249,Hector,NY,176
+898,Supertel Green Bay,5590,54313,44.58923,-88.11088,Green Bay,WI,25
+899,Supertel Uxbridge,41500,1569,42.05895,-71.63741,Uxbridge,MA,172
+900,Supertel Gibson,1443,18820,41.7779,-75.65029,Gibson,PA,44
+901,Supertel Montour,1969,50173,41.97461,-92.71044,Montour,IA,167
+902,Supertel Brock,15681,68320,40.48148,-95.9533,Brock,NE,106
+903,Supertel Burlingame,24365,66413,38.77375,-95.88305,Burlingame,KS,88
+904,Supertel Satsuma,7091,32189,29.54991,-81.64819,Satsuma,FL,219
+905,Supertel Caney,35250,74533,34.20521,-96.18893,Caney,OK,217
+906,Supertel Kapolei,42386,96707,21.36455,-158.08141,Kapolei,HI,215
+907,Supertel Wagner,49925,57380,43.03387,-98.28916,Wagner,SD,71
+908,Supertel Ivins,5175,84738,37.20987,-113.70888,Ivins,UT,91
+909,Supertel Murrells Inlet,43878,29576,33.56952,-79.05076,Murrells Inlet,SC,209
+910,Supertel Dunlap,18080,93621,36.8067,-119.13602,Dunlap,CA,96
+911,Supertel Olympia,48327,98516,47.09647,-122.78265,Olympia,WA,278
+912,Supertel Hennepin,11135,73444,34.4875,-97.38256,Hennepin,OK,290
+913,Supertel Fort Collins,46911,80525,40.52795,-105.04249,Fort Collins,CO,83
+914,Supertel Louisville,7425,40214,38.15141,-85.78285,Louisville,KY,193
+915,Supertel Alden,48716,67512,38.23289,-98.32645,Alden,KS,41
+916,Supertel Portlandville,26386,13834,42.54903,-74.96727,Portlandville,NY,209
+917,Supertel Niceville,4229,32578,30.50871,-86.4535,Niceville,FL,74
+918,Supertel New Baltimore,36195,12124,42.44652,-73.78494,New Baltimore,NY,84
+919,Supertel Garrison,25534,52229,42.14609,-92.16884,Garrison,IA,266
+920,Supertel Centerville,10030,37033,35.73493,-87.55365,Centerville,TN,271
+921,Supertel Greensboro,16234,27409,36.09242,-79.94431,Greensboro,NC,204
+922,Supertel McGaheysville,14275,22840,38.38642,-78.73845,McGaheysville,VA,185
+923,Supertel Irvington,2134,40146,37.84622,-86.31954,Irvington,KY,235
+924,Supertel Forestport,35915,13338,43.49706,-74.97833,Forestport,NY,81
+925,Supertel Patterson,12862,31557,31.3745,-82.09711,Patterson,GA,92
+926,Supertel Coon Rapids,27853,50058,41.85773,-94.69044,Coon Rapids,IA,32
+927,Supertel Port Carbon,40582,17965,40.69919,-76.16536,Port Carbon,PA,111
+928,Supertel Medford,1975,73759,36.85815,-97.71362,Medford,OK,212
+929,Supertel Howard,14975,16841,41.03399,-77.69011,Howard,PA,64
+930,Supertel Asbury,3607,8802,40.6783,-75.02515,Asbury,NJ,47
+931,Supertel Adair,39500,61411,40.40105,-90.50544,Adair,IL,274
+932,Supertel Rocky Point,27743,11778,40.94312,-72.93073,Rocky Point,NY,74
+933,Supertel Keenes,46774,62851,38.42185,-88.66237,Keenes,IL,123
+934,Supertel Marcell,26512,56657,47.57237,-93.61544,Marcell,MN,67
+935,Supertel Dodge,11225,54625,44.13287,-91.52507,Dodge,WI,55
+936,Supertel Hildreth,21571,68947,40.30139,-99.05188,Hildreth,NE,44
+937,Supertel Oaks,43663,19456,40.1367,-75.45962,Oaks,PA,213
+938,Supertel Skyforest,580,92385,34.21345,-117.23057,Skyforest,CA,62
+939,Supertel Riverhead,30252,11901,40.92424,-72.64697,Riverhead,NY,277
+940,Supertel Reynolds,47532,58275,47.68956,-97.10609,Reynolds,ND,41
+941,Supertel Santa Elena,40075,78591,26.65351,-98.53408,Santa Elena,TX,65
+942,Supertel Erie,49530,16501,42.12096,-80.08958,Erie,PA,59
+943,Supertel Du Bois,603,62831,38.23042,-89.22167,Du Bois,IL,208
+944,Supertel Hillpoint,16414,53937,43.38841,-90.15753,Hillpoint,WI,28
+945,Supertel Belle Fourche,24510,57717,44.96667,-103.92396,Belle Fourche,SD,76
+946,Supertel Strattanville,25596,16258,41.2307,-79.27217,Strattanville,PA,159
+947,Supertel Cameron,45510,54822,45.3944,-91.69995,Cameron,WI,145
+948,Supertel Crested Butte,11864,81225,38.94115,-107.00664,Crested Butte,CO,52
+949,Supertel Tampa,9077,67483,38.55322,-97.19856,Tampa,KS,138
+950,Supertel Sardis,10049,38371,35.42346,-88.2967,Sardis,TN,233
+951,Supertel Garfield,25937,87936,32.7544,-107.26284,Garfield,NM,300
+952,Supertel Kinzers,48574,17535,40.01224,-76.03813,Kinzers,PA,215
+953,Supertel Maywood,31817,60153,41.87984,-87.84389,Maywood,IL,212
+954,Supertel Herndon,41312,20170,38.98075,-77.38042,Herndon,VA,206
+955,Supertel Sumner,11615,4292,44.37461,-70.44674,Sumner,ME,209
+956,Supertel Cape May,36690,8204,38.97131,-74.92054,Cape May,NJ,51
+957,Supertel Higginsport,2386,45131,38.78997,-83.96729,Higginsport,OH,162
+958,Supertel Alamo,16972,38001,35.81323,-89.15505,Alamo,TN,243
+959,Supertel Taft,21433,93268,35.16725,-119.40785,Taft,CA,129
+960,Supertel Langhorne,10632,19047,40.18207,-74.91062,Langhorne,PA,103
+961,Supertel Los Angeles,23585,90020,34.06638,-118.30986,Los Angeles,CA,141
+962,Supertel Ross,21599,94957,37.96343,-122.56174,Ross,CA,248
+963,Supertel Carlton,36049,30627,33.98264,-82.96265,Carlton,GA,254
+964,Supertel Castle Rock,21643,98611,46.30642,-122.90479,Castle Rock,WA,176
+965,Supertel Georgetown,17177,80444,39.63138,-105.73078,Georgetown,CO,61
+966,Supertel Uniontown,47604,72955,35.6081,-94.44445,Uniontown,AR,46
+967,Supertel Pharr,2274,78577,26.1665,-98.19082,Pharr,TX,225
+968,Supertel Leasburg,15446,27291,36.40173,-79.16679,Leasburg,NC,217
+969,Supertel Avenal,17820,93204,35.90819,-120.06776,Avenal,CA,140
+970,Supertel New Berlin,36974,53146,42.9718,-88.15885,New Berlin,WI,110
+971,Supertel Wichita,49781,67230,37.68655,-97.17087,Wichita,KS,260
+972,Supertel Normantown,43085,25267,38.85778,-80.94187,Normantown,WV,102
+973,Supertel Auburn,31879,30011,34.02281,-83.8364,Auburn,GA,247
+974,Supertel Frankenmuth,36594,48734,43.35519,-83.74321,Frankenmuth,MI,279
+975,Supertel Fresno,19998,93730,36.90354,-119.75512,Fresno,CA,266
+976,Supertel Cochran,3039,31014,32.41439,-83.34504,Cochran,GA,55
+977,Supertel Porum,39978,74455,35.36238,-95.26867,Porum,OK,292
+978,Supertel Shamokin Dam,24625,17876,40.85571,-76.82319,Shamokin Dam,PA,156
+979,Supertel Howe,4072,75459,33.52988,-96.6831,Howe,TX,62
+980,Supertel Lindenwood,21458,61049,42.04417,-89.00753,Lindenwood,IL,86
+981,Supertel Amarillo,42713,79101,35.20605,-101.83946,Amarillo,TX,36
+982,Supertel Science Hill,43157,42553,37.1716,-84.70056,Science Hill,KY,201
+983,Supertel Gatlinburg,22435,37738,35.67125,-83.47641,Gatlinburg,TN,79
+984,Supertel Ducktown,45721,37326,35.04023,-84.38329,Ducktown,TN,237
+985,Supertel Glen Burnie,47812,21061,39.16116,-76.63226,Glen Burnie,MD,211
+986,Supertel Scottown,44844,45678,38.60595,-82.37883,Scottown,OH,170
+987,Supertel Spencerville,15272,46788,41.27005,-84.90876,Spencerville,IN,93
+988,Supertel Amboy,25776,61310,41.69815,-89.34769,Amboy,IL,169
+989,Supertel Burke,34367,57523,43.24437,-99.23795,Burke,SD,291
+990,Supertel Newhall,329,52315,42.00181,-91.96985,Newhall,IA,88
+991,Supertel Ellicott City,38792,21043,39.25759,-76.79773,Ellicott City,MD,75
+992,Supertel Mapleton,6259,56065,43.93376,-93.91799,Mapleton,MN,72
+993,Supertel Coweta,31990,74429,35.94872,-95.63065,Coweta,OK,213
+994,Supertel Little Lake,8275,49833,46.27504,-87.29142,Little Lake,MI,295
+995,Supertel Centerville,30582,63633,37.41993,-91.01082,Centerville,MO,39
+996,Supertel Ranger,15969,25557,38.09923,-82.16262,Ranger,WV,290
+997,Supertel Parrott,20521,39877,31.9183,-84.50647,Parrott,GA,77
+998,Supertel Post Falls,8109,83854,47.7267,-116.97511,Post Falls,ID,195
+999,Supertel Belcamp,48729,21017,39.47498,-76.23667,Belcamp,MD,143
+1000,Supertel New Braunfels,28449,78132,29.76299,-98.19,New Braunfels,TX,22
+1001,Supertel Xenia,46689,45385,39.66813,-83.91457,Xenia,OH,275
+1002,Supertel Kennedale,43294,76060,32.63987,-97.2161,Kennedale,TX,229
+1003,Supertel Ary,7494,41712,37.3744,-83.13751,Ary,KY,102
+1004,Supertel Wantagh,8780,11793,40.6462,-73.51024,Wantagh,NY,272
+1005,Supertel San Jose,47173,95132,37.41994,-121.79059,San Jose,CA,32
+1006,Supertel New Milford,19,7646,40.93368,-74.01956,New Milford,NJ,86
+1007,Supertel San Dimas,3393,91773,34.1072,-117.80928,San Dimas,CA,96
+1008,Supertel Hernando,38027,38632,34.79973,-90.00629,Hernando,MS,25
+1009,Supertel San Antonio,42390,78247,29.58005,-98.41196,San Antonio,TX,260
+1010,Supertel Woodward,6367,16882,40.90707,-77.33841,Woodward,PA,167
+1011,Supertel Forest Hill,10361,71430,31.06764,-92.53135,Forest Hill,LA,96
+1012,Supertel Marlboro,2480,12542,41.60772,-73.99666,Marlboro,NY,101
+1013,Supertel Murchison,39072,75778,32.30239,-95.71367,Murchison,TX,291
+1014,Supertel Harcourt,28931,50544,42.2537,-94.17042,Harcourt,IA,283
+1015,Supertel Pocahontas,8836,24635,37.30683,-81.34962,Pocahontas,VA,49
+1016,Supertel Cumming,16187,30028,34.28928,-84.17985,Cumming,GA,202
+1017,Supertel Parkersburg,5154,26101,39.23394,-81.57483,Parkersburg,WV,267
+1018,Supertel Gurley,4357,69141,41.30409,-102.93602,Gurley,NE,77
+1019,Supertel Green Bay,36998,54307,44.47049,-88.0366,Green Bay,WI,160
+1020,Supertel Atkins,13648,52206,41.99187,-91.88718,Atkins,IA,158
+1021,Supertel Wiley Ford,39121,26767,39.61581,-78.75674,Wiley Ford,WV,258
+1022,Supertel Stacy,16008,28581,34.84992,-76.43341,Stacy,NC,288
+1023,Supertel Margaretville,30648,12455,42.14871,-74.66334,Margaretville,NY,94
+1024,Supertel Tulsa,36285,74145,36.09728,-95.88731,Tulsa,OK,212
+1025,Supertel Oakland,44897,78951,29.61361,-96.83746,Oakland,TX,197
+1026,Supertel Clearlake,47261,95422,38.97829,-122.6423,Clearlake,CA,286
+1027,Supertel Thurmont,5798,21788,39.59429,-77.41958,Thurmont,MD,180
+1028,Supertel Rossburg,18313,45362,40.28684,-84.63368,Rossburg,OH,41
+1029,Supertel Goessel,19852,67053,38.24728,-97.34545,Goessel,KS,50
+1030,Supertel Macclesfield,5984,27852,35.75288,-77.63581,Macclesfield,NC,267
+1031,Supertel Death Valley,13270,92328,36.39482,-117.02718,Death Valley,CA,150
+1032,Supertel Winston,41117,59647,46.46726,-111.65138,Winston,MT,154
+1033,Supertel Houston,1605,77046,29.73438,-95.43301,Houston,TX,21
+1034,Supertel Fort Collins,11601,80525,40.52795,-105.04249,Fort Collins,CO,142
+1035,Supertel Tucson,37115,85747,32.09318,-110.7723,Tucson,AZ,202
+1036,Supertel West Chicago,14854,60185,41.89308,-88.21498,West Chicago,IL,142
+1037,Supertel Reading,26969,19611,40.32473,-75.9411,Reading,PA,286
+1038,Supertel Keego Harbor,48052,48320,42.61274,-83.33824,Keego Harbor,MI,283
+1039,Supertel Monmouth Junction,45759,8852,40.38978,-74.54461,Monmouth Junction,NJ,27
+1040,Supertel Morse Bluff,44237,68648,41.40482,-96.78949,Morse Bluff,NE,99
+1041,Supertel Immokalee,18180,34142,26.31392,-81.28601,Immokalee,FL,215
+1042,Supertel Whitefield,35587,4353,44.2052,-69.6126,Whitefield,ME,291
+1043,Supertel Indian Springs,39674,89018,36.57063,-115.66802,Indian Springs,NV,47
+1044,Supertel Dallas,23475,75246,32.79296,-96.77322,Dallas,TX,213
+1045,Supertel Knob Noster,17105,65336,38.78169,-93.56241,Knob Noster,MO,276
+1046,Supertel Grandview,1736,37337,35.78594,-84.86651,Grandview,TN,215
+1047,Supertel Cornwall,3938,12518,41.41847,-74.03571,Cornwall,NY,233
+1048,Supertel Botkins,44491,45306,40.45856,-84.18575,Botkins,OH,103
+1049,Supertel San Francisco,31778,94114,37.75814,-122.43547,San Francisco,CA,197
+1050,Supertel Beale Afb,21010,95903,39.11337,-121.37192,Beale Afb,CA,269
+1051,Supertel Swampscott,32740,1907,42.47572,-70.90684,Swampscott,MA,299
+1052,Supertel Rio Vista,48590,76093,32.21459,-97.40098,Rio Vista,TX,24
+1053,Supertel Clover,18519,29710,35.10598,-81.22209,Clover,SC,159
+1054,Supertel Mayport,32199,16240,41.03316,-79.22432,Mayport,PA,286
+1055,Supertel Reagan,9768,76680,31.18798,-96.80383,Reagan,TX,45
+1056,Supertel Pleasant Mount,29847,18453,41.74971,-75.361,Pleasant Mount,PA,46
+1057,Supertel Myrtle Beach,3165,29579,33.76052,-78.91463,Myrtle Beach,SC,245
+1058,Supertel Piedmont,21211,29673,34.71901,-82.455,Piedmont,SC,260
+1059,Supertel Evangeline,45179,70537,30.25747,-92.56642,Evangeline,LA,111
+1060,Supertel Goodrich,37313,58444,47.48278,-100.13156,Goodrich,ND,200
+1061,Supertel Soldier,29748,66540,39.48484,-95.97332,Soldier,KS,34
+1062,Supertel Stillwater,8167,74075,36.17151,-97.0774,Stillwater,OK,134
+1063,Supertel Townsend,33639,31331,31.5159,-81.42042,Townsend,GA,281
+1064,Supertel New Auburn,31173,55366,44.67233,-94.2346,New Auburn,MN,96
+1065,Supertel Kirby,20956,82430,43.80433,-108.17898,Kirby,WY,161
+1066,Supertel Hamlin,49990,79520,32.87581,-100.13012,Hamlin,TX,251
+1067,Supertel Cocolalla,39985,83813,48.10462,-116.63734,Cocolalla,ID,261
+1068,Supertel Vineland,20179,8361,39.44843,-74.95943,Vineland,NJ,271
+1069,Supertel Wilmington,17700,19802,39.75715,-75.52873,Wilmington,DE,94
+1070,Supertel Vici,22668,73859,36.13309,-99.2797,Vici,OK,176
+1071,Supertel Corydon,24248,47112,38.19235,-86.14512,Corydon,IN,226
+1072,Supertel Wheaton,4609,60189,41.83957,-88.12128,Wheaton,IL,122
+1073,Supertel Dalzell,9511,29040,34.06253,-80.43455,Dalzell,SC,185
+1074,Supertel Jasper,38438,37347,35.06088,-85.61894,Jasper,TN,89
+1075,Supertel Felton,19437,56536,47.04596,-96.53173,Felton,MN,162
+1076,Supertel Marysville,9807,48040,42.90983,-82.48022,Marysville,MI,141
+1077,Supertel Myra,6228,25544,38.23078,-82.11017,Myra,WV,69
+1078,Supertel Davis,27755,95616,38.55819,-121.80044,Davis,CA,80
+1079,Supertel Boonville,48402,65233,38.91528,-92.72035,Boonville,MO,169
+1080,Supertel West Townshend,24685,5359,43.15184,-72.72121,West Townshend,VT,189
+1081,Supertel Vanderbilt,5589,77991,28.7866,-96.59467,Vanderbilt,TX,280
+1082,Supertel Cameron,27142,29030,33.57917,-80.65441,Cameron,SC,245
+1083,Supertel Spout Spring,29878,24593,37.32651,-78.91342,Spout Spring,VA,137
+1084,Supertel Jackhorn,1619,41825,37.23323,-82.70854,Jackhorn,KY,290
+1085,Supertel Custer,26371,59024,46.20549,-107.71464,Custer,MT,134
+1086,Supertel Annapolis,27393,21409,39.01968,-76.44738,Annapolis,MD,293
+1087,Supertel Dodgeville,14343,53533,42.99285,-90.14915,Dodgeville,WI,74
+1088,Supertel Upland,18502,91786,34.10525,-117.66206,Upland,CA,156
+1089,Supertel Cameron,34283,26033,39.8284,-80.57985,Cameron,WV,34
+1090,Supertel Hysham,5751,59038,46.18917,-107.23069,Hysham,MT,39
+1091,Supertel Dodd City,28971,75438,33.60701,-96.07462,Dodd City,TX,202
+1092,Supertel Richland,42401,59260,48.84027,-106.10217,Richland,MT,245
+1093,Supertel Gilmer,8989,75645,32.68375,-94.87317,Gilmer,TX,274
+1094,Supertel Charlotte,48601,28203,35.20832,-80.8577,Charlotte,NC,36
+1095,Supertel Canton,30032,17724,41.63827,-76.80034,Canton,PA,223
+1096,Supertel Mount Saint Joseph,20385,45051,39.09983,-84.65504,Mount Saint Joseph,OH,226
+1097,Supertel Woodlawn,13864,62898,38.35041,-89.06209,Woodlawn,IL,254
+1098,Supertel Stonewall,12951,39363,32.11918,-88.77628,Stonewall,MS,96
+1099,Supertel Junction City,18149,54443,44.61243,-89.75264,Junction City,WI,266
+1100,Supertel Good Thunder,4899,56037,44.0172,-94.0465,Good Thunder,MN,195
+1101,Supertel Bethune,38616,29009,34.44097,-80.37642,Bethune,SC,74
+1102,Supertel Clarkfield,48828,56223,44.76259,-95.81691,Clarkfield,MN,95
+1103,Supertel Picacho,46333,88343,33.23504,-105.06772,Picacho,NM,201
+1104,Supertel Springfield,39374,62712,39.74883,-89.58344,Springfield,IL,259
+1105,Supertel Smyrna,44893,30082,33.85517,-84.5373,Smyrna,GA,228
+1106,Supertel Orange,28043,92868,33.78799,-117.87637,Orange,CA,74
+1107,Supertel Estherville,30383,51334,43.40379,-94.80698,Estherville,IA,296
+1108,Supertel Trenton,28230,29847,33.69941,-81.84878,Trenton,SC,42
+1109,Supertel Wayland,43744,49348,42.68379,-85.61619,Wayland,MI,55
+1110,Supertel Calais,15820,4619,45.13397,-67.22401,Calais,ME,71
+1111,Supertel Gaston,21557,97119,45.4717,-123.20781,Gaston,OR,109
+1112,Supertel Marksville,27520,71351,31.17227,-91.9604,Marksville,LA,155
+1113,Supertel Newport,33364,28570,34.78123,-76.88003,Newport,NC,270
+1114,Supertel New York,22391,10030,40.81826,-73.94283,New York,NY,113
+1115,Supertel New Hill,11456,27562,35.64157,-78.98141,New Hill,NC,227
+1116,Supertel Jackson,38295,39206,32.37237,-90.17268,Jackson,MS,89
+1117,Supertel Dyersburg,39687,38024,36.03743,-89.38511,Dyersburg,TN,292
+1118,Supertel Covel,8384,24719,37.48722,-81.32652,Covel,WV,205
+1119,Supertel Hinckley,17279,84635,39.39181,-112.72132,Hinckley,UT,140
+1120,Supertel Katonah,13353,10536,41.26971,-73.68943,Katonah,NY,99
+1121,Supertel Barnard,50,5031,43.72361,-72.5872,Barnard,VT,180
+1122,Supertel Farwell,22313,48622,43.83304,-84.884,Farwell,MI,89
+1123,Supertel Hutchinson,10669,55350,44.89743,-94.39195,Hutchinson,MN,108
+1124,Supertel Brewster,11851,98812,48.13119,-119.80687,Brewster,WA,177
+1125,Supertel Venedocia,23471,45894,40.76252,-84.4684,Venedocia,OH,174
+1126,Supertel Fox Lake,40195,60020,42.39543,-88.17349,Fox Lake,IL,87
+1127,Supertel Raleigh,47916,27603,35.66408,-78.66186,Raleigh,NC,245
+1128,Supertel Canovanas,41263,729,18.33524,-65.88677,Canovanas,PR,81
+1129,Supertel Duck Hill,36401,38925,33.62917,-89.61961,Duck Hill,MS,82
+1130,Supertel Lone Pine,15237,93545,36.6046,-118.02721,Lone Pine,CA,62
+1131,Supertel Hager City,2611,54014,44.64578,-92.57048,Hager City,WI,92
+1132,Supertel Nolanville,6503,76559,31.07987,-97.61079,Nolanville,TX,142
+1133,Supertel Mount Sherman,6829,42764,37.42948,-85.62507,Mount Sherman,KY,245
+1134,Supertel Mottville,8902,13119,42.97655,-76.44488,Mottville,NY,79
+1135,Supertel Indianapolis,41225,46222,39.79088,-86.21477,Indianapolis,IN,297
+1136,Supertel Ruston,17342,71272,32.52928,-92.6517,Ruston,LA,206
+1137,Supertel Arcanum,6295,45304,39.98756,-84.53145,Arcanum,OH,93
+1138,Supertel Lillie,24591,71256,32.94852,-92.71471,Lillie,LA,165
+1139,Supertel Pennington,31464,8534,40.33026,-74.79422,Pennington,NJ,69
+1140,Supertel Pennington,34869,36916,32.23788,-88.04143,Pennington,AL,28
+1141,Supertel Jacksonville,5228,32246,30.29422,-81.51782,Jacksonville,FL,247
+1142,Supertel Ringsted,32458,50578,43.30081,-94.54775,Ringsted,IA,205
+1143,Supertel Nashotah,6146,53058,43.11003,-88.40624,Nashotah,WI,260
+1144,Supertel Bullville,16395,10915,41.54022,-74.35714,Bullville,NY,262
+1145,Supertel Byfield,21182,1922,42.75862,-70.91758,Byfield,MA,83
+1146,Supertel Silver Spring,36685,20902,39.04381,-77.0421,Silver Spring,MD,282
+1147,Supertel Acworth,9844,3601,43.23933,-72.29855,Acworth,NH,104
+1148,Supertel Clinton,25699,72031,35.60717,-92.52904,Clinton,AR,245
+1149,Supertel Buffalo,904,14228,43.04214,-78.7798,Buffalo,NY,95
+1150,Supertel South Haven,10912,55382,45.30521,-94.20438,South Haven,MN,281
+1151,Supertel Sunflower,29445,36581,31.36645,-88.0098,Sunflower,AL,264
+1152,Supertel Nora Springs,27800,50458,43.15969,-93.00609,Nora Springs,IA,68
+1153,Supertel Corinna,42686,4928,44.94973,-69.25695,Corinna,ME,212
+1154,Supertel Armstrong,2703,78338,26.86821,-97.73585,Armstrong,TX,289
+1155,Supertel Hoonah,12249,99829,58.03502,-135.33856,Hoonah,AK,32
+1156,Supertel Westford,9505,1886,42.58642,-71.44008,Westford,MA,200
+1157,Supertel Humble,532,77396,29.94778,-95.26129,Humble,TX,157
+1158,Supertel Bristol,33884,53104,42.55731,-88.03416,Bristol,WI,131
+1159,Supertel Montgomery,4335,36117,32.37831,-86.14627,Montgomery,AL,123
+1160,Supertel Kenilworth,26246,60043,42.08882,-87.71445,Kenilworth,IL,234
+1161,Supertel Summer Lake,12133,97640,42.90742,-120.65381,Summer Lake,OR,273
+1162,Supertel Suttons Bay,4175,49682,44.97954,-85.6512,Suttons Bay,MI,133
+1163,Supertel Naval Anacost Annex,44576,20373,38.85779,-77.01051,Naval Anacost Annex,DC,261
+1164,Supertel Ojo Caliente,23238,87549,36.23237,-106.0568,Ojo Caliente,NM,53
+1165,Supertel Kincheloe,13227,49788,46.26418,-84.46779,Kincheloe,MI,224
+1166,Supertel South Easton,3891,2375,42.01954,-71.10381,South Easton,MA,193
+1167,Supertel Atoka,44961,38004,35.41909,-89.76687,Atoka,TN,135
+1168,Supertel Dennis,13783,38838,34.5448,-88.2643,Dennis,MS,186
+1169,Supertel Island Park,47441,83429,44.48674,-111.37366,Island Park,ID,133
+1170,Supertel Falmouth,40681,49632,44.23993,-84.97268,Falmouth,MI,172
+1171,Supertel Suches,20572,30572,34.73539,-84.07364,Suches,GA,185
+1172,Supertel Groton,48673,5046,44.23864,-72.25024,Groton,VT,170
+1173,Supertel Battiest,41669,74722,34.38938,-94.91671,Battiest,OK,241
+1174,Supertel Saint Charles,42619,63304,38.70583,-90.68666,Saint Charles,MO,172
+1175,Supertel Katy,12565,77450,29.74753,-95.73696,Katy,TX,121
+1176,Supertel Lewisport,28611,42351,37.9026,-86.87903,Lewisport,KY,67
+1177,Supertel Coal Creek,13757,81221,38.36243,-105.14238,Coal Creek,CO,104
+1178,Supertel Tchula,34124,39169,33.13515,-90.29371,Tchula,MS,23
+1179,Supertel Meridian,26211,83646,43.65,-116.43247,Meridian,ID,144
+1180,Supertel Olivia,199,28368,35.36942,-79.11331,Olivia,NC,49
+1181,Supertel Brumley,11824,65017,38.09185,-92.49548,Brumley,MO,174
+1182,Supertel Norwalk,39752,50211,41.45614,-93.6887,Norwalk,IA,92
+1183,Supertel Anton Chico,13724,87711,35.22458,-105.14673,Anton Chico,NM,232
+1184,Supertel Pago Pago,13108,96799,-14.21984,-170.37005,Pago Pago,AS,204
+1185,Supertel Glen Allen,48193,23059,37.70424,-77.56539,Glen Allen,VA,97
+1186,Supertel Pinola,47744,39149,31.83354,-90.00985,Pinola,MS,118
+1187,Supertel Maple Rapids,1331,48853,43.10371,-84.68999,Maple Rapids,MI,184
+1188,Supertel Manly,45180,50456,43.28812,-93.21579,Manly,IA,77
+1189,Supertel Bivins,41002,75555,32.94564,-94.13696,Bivins,TX,146
+1190,Supertel Albuquerque,22698,87106,35.00818,-106.61185,Albuquerque,NM,146
+1191,Supertel Minden,44247,51553,41.41577,-95.54638,Minden,IA,228
+1192,Supertel Kings Bay,4,31547,30.79096,-81.53443,Kings Bay,GA,298
+1193,Supertel Gresham,19782,54128,44.86675,-88.80525,Gresham,WI,220
+1194,Supertel Ford,44159,99013,47.88498,-117.83495,Ford,WA,77
+1195,Supertel Sweet Valley,49995,18656,41.32703,-76.20442,Sweet Valley,PA,141
+1196,Supertel Axtell,39310,84621,39.05109,-111.82959,Axtell,UT,163
+1197,Supertel Mountain View,14348,72560,35.84023,-92.08032,Mountain View,AR,35
+1198,Supertel Lewisville,8712,75077,33.07921,-97.06401,Lewisville,TX,44
+1199,Supertel Waxhaw,23877,28173,34.91532,-80.73021,Waxhaw,NC,84
+1200,Supertel Worth,10581,60482,41.68737,-87.79239,Worth,IL,122
+1201,Supertel Hartwick,26178,13348,42.70202,-75.06398,Hartwick,NY,263
+1202,Supertel Willow Wood,46318,45696,38.60356,-82.45201,Willow Wood,OH,199
+1203,Supertel Kansas City,34030,64137,38.93196,-94.54287,Kansas City,MO,253
+1204,Supertel Fort Lauderdale,31939,33301,26.12128,-80.12745,Fort Lauderdale,FL,109
+1205,Supertel Little Rock Air Force Base,21172,72099,34.90103,-92.15202,Little Rock Air Force Base,AR,31
+1206,Supertel Fairmont,12075,68354,40.63935,-97.58032,Fairmont,NE,92
+1207,Supertel New Century,8725,66031,38.82975,-94.89142,New Century,KS,97
+1208,Supertel West Point,28973,78963,29.92586,-97.02767,West Point,TX,113
+1209,Supertel Sunspot,34774,88349,32.795,-105.80313,Sunspot,NM,120
+1210,Supertel Henrico,11605,23294,37.63048,-77.54205,Henrico,VA,92
+1211,Supertel Pleasant Hill,9896,71065,31.81028,-93.49957,Pleasant Hill,LA,162
+1212,Supertel Amherst,8668,79312,34.06218,-102.36794,Amherst,TX,66
+1213,Supertel Matthews,45138,28104,35.06017,-80.69666,Matthews,NC,124
+1214,Supertel West Palm Beach,23722,33415,26.66002,-80.12742,West Palm Beach,FL,181
+1215,Supertel Peoria,24196,61625,40.6978,-89.61455,Peoria,IL,168
+1216,Supertel Eldred,9396,62027,39.24686,-90.55725,Eldred,IL,222
+1217,Supertel Tucson,35705,85730,32.19064,-110.72976,Tucson,AZ,81
+1218,Supertel Sperry,6257,52650,40.94782,-91.15687,Sperry,IA,195
+1219,Supertel Powell Butte,17759,97753,44.22625,-120.99996,Powell Butte,OR,101
+1220,Supertel Austin,4694,78741,30.23007,-97.71389,Austin,TX,103
+1221,Supertel Bar Harbor,13591,4609,44.38518,-68.27108,Bar Harbor,ME,106
+1222,Supertel Bakersfield,31261,93304,35.33938,-119.02368,Bakersfield,CA,193
+1223,Supertel Orlando,7429,32829,28.47639,-81.22478,Orlando,FL,189
+1224,Supertel Louisa,49758,23093,38.00153,-78.03595,Louisa,VA,202
+1225,Supertel Alamogordo,23162,88311,32.80689,-105.98875,Alamogordo,NM,234
+1226,Supertel Lahmansville,36563,26731,39.15243,-79.06859,Lahmansville,WV,20
+1227,Supertel Willow City,10221,58384,48.59401,-100.26465,Willow City,ND,159
+1228,Supertel Carrollton,8276,75006,32.96165,-96.89717,Carrollton,TX,115
+1229,Supertel Buras,47312,70041,29.33194,-89.46978,Buras,LA,219
+1230,Supertel Eagle,31995,68347,40.80347,-96.42274,Eagle,NE,195
+1231,Supertel Webbers Falls,30873,74470,35.47906,-95.16879,Webbers Falls,OK,196
+1232,Supertel Oklahoma City,28995,73128,35.44899,-97.64595,Oklahoma City,OK,217
+1233,Supertel Buckley,2171,98321,47.15564,-122.06576,Buckley,WA,289
+1234,Supertel Boxholm,41874,50040,42.17363,-94.10121,Boxholm,IA,276
+1235,Supertel Keisterville,259,15449,39.97267,-79.78055,Keisterville,PA,166
+1236,Supertel Zillah,29661,98953,46.44149,-120.23284,Zillah,WA,266
+1237,Supertel Woodburn,7825,50275,41.04375,-93.58852,Woodburn,IA,57
+1238,Supertel Ruth,41861,48470,43.73253,-82.76158,Ruth,MI,231
+1239,Supertel Burkeville,38545,75932,31.0551,-93.61396,Burkeville,TX,68
+1240,Supertel Carmel,13135,4419,44.7969,-69.03154,Carmel,ME,260
+1241,Supertel Pequot Lakes,2124,56472,46.57507,-94.34884,Pequot Lakes,MN,155
+1242,Supertel Myrtlewood,19127,36763,32.26184,-87.96509,Myrtlewood,AL,56
+1243,Supertel Old Bethpage,16162,11804,40.75829,-73.45706,Old Bethpage,NY,96
+1244,Supertel Sacramento,14895,95819,38.56816,-121.43772,Sacramento,CA,220
+1245,Supertel Caulfield,7198,65626,36.59088,-92.11697,Caulfield,MO,246
+1246,Supertel Springville,492,38256,36.31388,-88.12539,Springville,TN,261
+1247,Supertel Lyndon,43166,61261,41.72928,-89.91166,Lyndon,IL,115
+1248,Supertel Robbins,25237,27325,35.46236,-79.57249,Robbins,NC,296
+1249,Supertel Kempton,24416,46049,40.29757,-86.22165,Kempton,IN,33
+1250,Supertel Marion,24520,29571,34.138,-79.42205,Marion,SC,167
+1251,Supertel Shiloh,33568,31826,32.79526,-84.70292,Shiloh,GA,230
+1252,Supertel Beaverton,17946,97007,45.44282,-122.87112,Beaverton,OR,158
+1253,Supertel Sierraville,27384,96126,39.54764,-120.38999,Sierraville,CA,189
+1254,Supertel Wiley Ford,42609,26767,39.61581,-78.75674,Wiley Ford,WV,92
+1255,Supertel Naalehu,5415,96772,19.0683,-155.66077,Naalehu,HI,39
+1256,Supertel Luther,31810,50152,41.96873,-93.81765,Luther,IA,104
+1257,Supertel Saint Louis,30255,63124,38.63832,-90.38023,Saint Louis,MO,230
+1258,Supertel La Salle,36127,48145,41.85122,-83.46331,La Salle,MI,169
+1259,Supertel Stratford,31192,74872,34.77989,-96.97913,Stratford,OK,228
+1260,Supertel Mount Orab,49797,45154,39.06137,-83.91997,Mount Orab,OH,81
+1261,Supertel Staples,43418,56479,46.43719,-94.78939,Staples,MN,283
+1262,Supertel Margarettsville,20806,27853,36.51716,-77.30488,Margarettsville,NC,167
+1263,Supertel Williamstown,254,17098,40.58998,-76.63071,Williamstown,PA,298
+1264,Supertel Twain,8241,95984,39.99654,-121.11951,Twain,CA,297
+1265,Supertel Courtland,26001,56021,44.28339,-94.31391,Courtland,MN,285
+1266,Supertel Hamilton,40057,58238,48.77953,-97.39791,Hamilton,ND,272
+1267,Supertel Kansas City,41633,64136,39.01361,-94.40181,Kansas City,MO,88
+1268,Supertel Reno,28799,89509,39.49637,-119.8273,Reno,NV,147
+1269,Supertel Lamesa,12361,79331,32.66775,-101.97488,Lamesa,TX,59
+1270,Supertel New Madison,48965,45346,39.97934,-84.70911,New Madison,OH,120
+1271,Supertel Windthorst,18605,76389,33.49713,-98.47568,Windthorst,TX,256
+1272,Supertel Lueders,39880,79533,32.84898,-99.54739,Lueders,TX,189
+1273,Supertel Columbia,25334,38401,35.62955,-87.02097,Columbia,TN,166
+1274,Supertel Colton,16302,92324,34.03398,-117.29008,Colton,CA,181
+1275,Supertel Brooklyn,771,11239,40.64733,-73.87136,Brooklyn,NY,225
+1276,Supertel Haydenville,15298,1039,42.41049,-72.69188,Haydenville,MA,164
+1277,Supertel New York,5640,10119,40.75064,-73.99273,New York,NY,114
+1278,Supertel Guysville,22029,45735,39.25183,-81.9229,Guysville,OH,99
+1279,Supertel Coalgood,48376,40818,36.82003,-83.2442,Coalgood,KY,258
+1280,Supertel Tulsa,35034,74130,36.24172,-95.95536,Tulsa,OK,251
+1281,Supertel Spartansburg,35871,16434,41.79442,-79.66765,Spartansburg,PA,30
+1282,Supertel Davidsonville,27014,21035,38.93637,-76.63875,Davidsonville,MD,40
+1283,Supertel Tyngsboro,25150,1879,42.66626,-71.42911,Tyngsboro,MA,46
+1284,Supertel Port Angeles,284,98363,48.03477,-123.76952,Port Angeles,WA,56
+1285,Supertel Empire,22320,49630,44.92262,-86.00074,Empire,MI,86
+1286,Supertel Wentworth,35457,57075,43.99605,-96.96749,Wentworth,SD,55
+1287,Supertel Woods Cross,7364,84087,40.8891,-111.92898,Woods Cross,UT,245
+1288,Supertel Edison,35551,93220,35.3705,-118.78369,Edison,CA,143
+1289,Supertel South Boardman,12197,49680,44.64174,-85.25089,South Boardman,MI,231
+1290,Supertel Arcade,15353,14009,42.57542,-78.39241,Arcade,NY,234
+1291,Supertel Brighton,24596,62012,39.04225,-90.15027,Brighton,IL,85
+1292,Supertel Grosse Ile,19637,48138,42.13156,-83.1586,Grosse Ile,MI,182
+1293,Supertel Linwood,37479,1525,42.09899,-71.64296,Linwood,MA,41
+1294,Supertel Peru,25320,12972,44.559,-73.56516,Peru,NY,66
+1295,Supertel Philadelphia,12566,19143,39.94315,-75.22664,Philadelphia,PA,263
+1296,Supertel Cooperstown,39203,13326,42.71865,-74.90374,Cooperstown,NY,209
+1297,Supertel San Jose,5691,95112,37.34461,-121.88346,San Jose,CA,246
+1298,Supertel Carlton,25505,55718,46.6249,-92.48505,Carlton,MN,190
+1299,Supertel Madison,49049,21648,38.4966,-76.23386,Madison,MD,152
+1300,Supertel Beaverton,10443,97005,45.49144,-122.80397,Beaverton,OR,116
+1301,Supertel Anchorage,49573,99507,61.13336,-149.69001,Anchorage,AK,250
+1302,Supertel Avondale,48147,81022,38.03279,-104.43768,Avondale,CO,146
+1303,Supertel Willits,29426,95490,39.4883,-123.34725,Willits,CA,49
+1304,Supertel Lewisville,37331,71845,33.32005,-93.63365,Lewisville,AR,143
+1305,Supertel Bellflower,42216,63333,39.0351,-91.32014,Bellflower,MO,74
+1306,Supertel Rochester,7464,42273,37.20128,-86.85916,Rochester,KY,40
+1307,Supertel East Providence,37818,2914,41.81326,-71.36608,East Providence,RI,121
+1308,Supertel New London,21321,52645,40.91429,-91.40138,New London,IA,214
+1309,Supertel Russellville,15877,72801,35.28057,-93.14161,Russellville,AR,190
+1310,Supertel Jordan,40903,13080,43.08338,-76.47776,Jordan,NY,272
+1311,Supertel Walnut Grove,33530,35990,34.06676,-86.3052,Walnut Grove,AL,273
+1312,Supertel Adjuntas,29532,601,18.18027,-66.75266,Adjuntas,PR,229
+1313,Supertel Rockaway Park,10667,11694,40.57532,-73.85099,Rockaway Park,NY,28
+1314,Supertel Duffield,24387,24244,36.71075,-82.79785,Duffield,VA,161
+1315,Supertel Haverhill,3372,50120,41.93373,-92.9828,Haverhill,IA,182
+1316,Supertel Boswell,1047,74727,34.01907,-95.86018,Boswell,OK,197
+1317,Supertel Mineral Point,27842,53565,42.84025,-90.16982,Mineral Point,WI,272
+1318,Supertel Clairfield,37123,37715,36.55323,-83.95894,Clairfield,TN,144
+1319,Supertel Sheldon,45028,51201,43.18331,-95.8657,Sheldon,IA,253
+1320,Supertel Sharpsburg,168,27878,35.86606,-77.83062,Sharpsburg,NC,270
+1321,Supertel Milton,25831,2186,42.23854,-71.08464,Milton,MA,203
+1322,Supertel Cerro Gordo,41459,28430,34.28419,-78.93333,Cerro Gordo,NC,200
+1323,Supertel Dilliner,31139,15327,39.75088,-79.96293,Dilliner,PA,168
+1324,Supertel Folsom,10812,88419,36.91839,-103.54734,Folsom,NM,94
+1325,Supertel Atoka,8560,74525,34.33441,-96.05563,Atoka,OK,224
+1326,Supertel Hawesville,4502,42348,37.83379,-86.76578,Hawesville,KY,101
+1327,Supertel Westbrook,8219,56183,44.03404,-95.42334,Westbrook,MN,236
+1328,Supertel Freistatt,34414,65654,37.02164,-93.8975,Freistatt,MO,187
+1329,Supertel Independence,15116,70443,30.62885,-90.54257,Independence,LA,197
+1330,Supertel Westminster,5478,80030,39.83006,-105.03695,Westminster,CO,192
+1331,Supertel Armstrong,1699,65230,39.28715,-92.69218,Armstrong,MO,25
+1332,Supertel Falkner,24580,38629,34.86914,-88.99421,Falkner,MS,295
+1333,Supertel Crows Landing,35498,95313,37.43511,-121.03769,Crows Landing,CA,161
+1334,Supertel Auburndale,21747,54412,44.66859,-89.98238,Auburndale,WI,230
+1335,Supertel Hanover,46483,17331,39.79085,-76.98028,Hanover,PA,161
+1336,Supertel Creston,15137,50801,41.07959,-94.39224,Creston,IA,52
+1337,Supertel Connersville,37640,47331,39.63086,-85.16313,Connersville,IN,66
+1338,Supertel Pineland,8969,29934,32.59651,-81.11245,Pineland,SC,128
+1339,Supertel Harrison,39942,4040,44.10922,-70.71784,Harrison,ME,168
+1340,Supertel Webster Springs,13267,26288,38.49664,-80.3645,Webster Springs,WV,164
+1341,Supertel Guatay,33638,91931,32.83758,-116.58029,Guatay,CA,117
+1342,Supertel Oakwood,18791,30566,34.23747,-83.89477,Oakwood,GA,217
+1343,Supertel Salamonia,45322,47381,40.38665,-84.86465,Salamonia,IN,183
+1344,Supertel Orange City,28811,51041,43.02443,-96.07701,Orange City,IA,135
+1345,Supertel Ericson,48338,68637,41.78778,-98.68997,Ericson,NE,59
+1346,Supertel Dover,24806,2030,42.2366,-71.28421,Dover,MA,124
+1347,Supertel Kents Store,40043,23084,37.8864,-78.11162,Kents Store,VA,285
+1348,Supertel Land O'Lakes,27642,54540,46.15505,-89.38216,Land O'Lakes,WI,299
+1349,Supertel Conception Junction,27716,64434,40.2584,-94.73615,Conception Junction,MO,114
+1350,Supertel Lejunior,44898,40849,36.89941,-83.13469,Lejunior,KY,100
+1351,Supertel Piney Flats,31722,37686,36.44175,-82.34639,Piney Flats,TN,109
+1352,Supertel Glenallen,49763,63751,37.2742,-90.12404,Glenallen,MO,228
+1353,Supertel Henderson,942,89011,36.0848,-114.9651,Henderson,NV,151
+1354,Supertel Everest,11588,66424,39.67789,-95.40072,Everest,KS,203
+1355,Supertel Crimora,18700,24431,38.16897,-78.83924,Crimora,VA,71
+1356,Supertel Ryde,45422,95680,38.24142,-121.57816,Ryde,CA,226
+1357,Supertel Tecumseh,42328,65760,36.62236,-92.27943,Tecumseh,MO,68
+1358,Supertel Alvarado,48104,56710,48.2182,-96.99776,Alvarado,MN,248
+1359,Supertel Shoup,24803,83469,45.1127,-114.47772,Shoup,ID,274
+1360,Supertel Kenoza Lake,1024,12750,41.73595,-74.96382,Kenoza Lake,NY,285
+1361,Supertel Dighton,43425,67839,38.47911,-100.43961,Dighton,KS,252
+1362,Supertel Portsmouth,39332,23708,36.84804,-76.30646,Portsmouth,VA,203
+1363,Supertel Alamo,28913,47916,39.98343,-87.05524,Alamo,IN,254
+1364,Supertel Newton,26561,39870,31.31944,-84.41071,Newton,GA,248
+1365,Supertel Margarettsville,34525,27853,36.51716,-77.30488,Margarettsville,NC,282
+1366,Supertel Brohard,39581,26138,39.02114,-81.18155,Brohard,WV,53
+1367,Supertel Sproul,8303,16682,40.27206,-78.4565,Sproul,PA,63
+1368,Supertel Burns,28162,37029,36.04253,-87.2678,Burns,TN,123
+1369,Supertel Southside,38539,25187,38.72617,-82.01878,Southside,WV,94
+1370,Supertel New Richmond,32426,54017,45.11907,-92.52091,New Richmond,WI,192
+1371,Supertel Key Colony Beach,10880,33051,24.72328,-81.02155,Key Colony Beach,FL,288
+1372,Supertel Jourdanton,26600,78026,28.75573,-98.54754,Jourdanton,TX,96
+1373,Supertel East Orleans,2947,2643,41.75534,-69.94002,East Orleans,MA,163
+1374,Supertel Kensington,11796,20895,39.02696,-77.07781,Kensington,MD,232
+1375,Supertel Mcalister,32312,88427,34.78172,-103.76417,Mcalister,NM,78
+1376,Supertel Bushnell,9367,61422,40.55084,-90.53113,Bushnell,IL,80
+1377,Supertel Warm Springs,40848,97761,44.8433,-121.29807,Warm Springs,OR,186
+1378,Supertel Harrisburg,6537,97446,44.26804,-123.05548,Harrisburg,OR,240
+1379,Supertel Parowan,21671,84761,37.84603,-112.87124,Parowan,UT,155
+1380,Supertel Sacramento,14152,95817,38.55057,-121.45713,Sacramento,CA,62
+1381,Supertel East Dover,21814,5341,42.96407,-72.7972,East Dover,VT,300
+1382,Supertel Sandersville,7713,31082,32.992,-82.89815,Sandersville,GA,207
+1383,Supertel Modale,22032,51556,41.63548,-96.04198,Modale,IA,69
+1384,Supertel Coarsegold,49993,93614,37.21282,-119.72659,Coarsegold,CA,68
+1385,Supertel Diamond,32049,44412,41.09671,-81.0229,Diamond,OH,175
+1386,Supertel Wesley,20732,4686,44.98619,-67.69015,Wesley,ME,75
+1387,Supertel Rocky Ridge,44030,21778,39.61576,-77.33754,Rocky Ridge,MD,27
+1388,Supertel Illiopolis,43877,62539,39.86681,-89.24914,Illiopolis,IL,127
+1389,Supertel Hamilton,39300,15744,40.91722,-79.07119,Hamilton,PA,214
+1390,Supertel New Tazewell,37843,37825,36.41221,-83.68196,New Tazewell,TN,81
+1391,Supertel Clio,42679,48420,43.17968,-83.71176,Clio,MI,134
+1392,Supertel Emelle,13520,35459,32.79337,-88.3003,Emelle,AL,25
+1393,Supertel Truesdale,30239,63380,38.81262,-91.12205,Truesdale,MO,131
+1394,Supertel Middleburg,20006,17842,40.80389,-77.04329,Middleburg,PA,145
+1395,Supertel Hartford,1004,49057,42.18647,-86.16691,Hartford,MI,235
+1396,Supertel Groton,16171,57445,45.45828,-98.12094,Groton,SD,297
+1397,Supertel Ivan,7265,71748,33.90296,-92.43322,Ivan,AR,187
+1398,Supertel East Andover,33234,4226,44.62555,-70.70823,East Andover,ME,251
+1399,Supertel Las Vegas,19477,89123,36.0352,-115.14908,Las Vegas,NV,52
+1400,Supertel Cincinnati,44354,45224,39.20215,-84.53222,Cincinnati,OH,158
+1401,Supertel Onalaska,24755,77360,30.8471,-95.11394,Onalaska,TX,42
+1402,Supertel Jefferson,43474,3583,44.40148,-71.4583,Jefferson,NH,83
+1403,Supertel White Mountain,3605,99784,64.682,-163.4067,White Mountain,AK,199
+1404,Supertel Litchfield,22430,44253,41.16571,-82.03767,Litchfield,OH,162
+1405,Supertel New Tazewell,8997,37825,36.41221,-83.68196,New Tazewell,TN,103
+1406,Supertel Boonville,24252,27011,36.21649,-80.69728,Boonville,NC,102
+1407,Supertel Houston,15124,77069,29.98631,-95.52398,Houston,TX,184
+1408,Supertel Streamwood,33328,60107,42.02148,-88.1783,Streamwood,IL,237
+1409,Supertel Pendleton,24268,97801,45.67317,-118.83362,Pendleton,OR,239
+1410,Supertel Ocoee,31389,37361,35.08543,-84.6551,Ocoee,TN,69
+1411,Supertel Oldwick,24930,8858,40.67903,-74.73748,Oldwick,NJ,235
+1412,Supertel Richmond,49007,1254,42.37972,-73.36608,Richmond,MA,289
+1413,Supertel Manteno,10785,60950,41.25135,-87.88494,Manteno,IL,130
+1414,Supertel Syracuse,35071,13208,43.07878,-76.14521,Syracuse,NY,242
+1415,Supertel Penn Laird,20601,22846,38.38791,-78.79239,Penn Laird,VA,32
+1416,Supertel Franklin,21859,62638,39.60714,-90.08226,Franklin,IL,94
+1417,Supertel Anaheim,40816,92802,33.80831,-117.9237,Anaheim,CA,215
+1418,Supertel Nazareth,353,49074,42.3198,-85.53991,Nazareth,MI,221
+1419,Supertel Wildwood,15563,63040,38.57298,-90.63512,Wildwood,MO,117
+1420,Supertel Shoup,19368,83469,45.1127,-114.47772,Shoup,ID,245
+1421,Supertel Clinton,31213,98236,47.95804,-122.40468,Clinton,WA,244
+1422,Supertel Force,4364,15841,41.25798,-78.50441,Force,PA,111
+1423,Supertel Las Vegas,42297,89115,36.25374,-115.04285,Las Vegas,NV,222
+1424,Supertel Sikeston,39079,63801,36.89698,-89.60672,Sikeston,MO,152
+1425,Supertel Elgin,8675,60120,42.03317,-88.2374,Elgin,IL,164
+1426,Supertel Villa Park,48780,60181,41.87795,-87.97626,Villa Park,IL,73
+1427,Supertel Cape Neddick,15996,3902,43.22246,-70.63788,Cape Neddick,ME,110
+1428,Supertel Flatwoods,3603,71427,31.38879,-92.89388,Flatwoods,LA,118
+1429,Supertel Cranesville,33061,16410,41.92012,-80.30482,Cranesville,PA,155
+1430,Supertel Helena,15455,35080,33.25508,-86.91894,Helena,AL,267
+1431,Supertel Mechanicsville,1708,20659,38.41886,-76.73238,Mechanicsville,MD,203
+1432,Supertel Atlanta,42270,30327,33.86708,-84.42358,Atlanta,GA,188
+1433,Supertel Lebanon,41486,37090,36.12439,-86.29707,Lebanon,TN,243
+1434,Supertel Beaver,5073,50031,42.03881,-94.14003,Beaver,IA,292
+1435,Supertel Long Creek,26467,97856,44.78426,-119.12976,Long Creek,OR,23
+1436,Supertel Shell Lake,27198,54871,45.7412,-92.01503,Shell Lake,WI,263
+1437,Supertel Harpswell,32152,4079,43.80343,-69.94972,Harpswell,ME,70
+1438,Supertel Homer,45447,68030,42.3184,-96.45057,Homer,NE,202
+1439,Supertel Tulelake,4293,96134,41.8444,-121.41231,Tulelake,CA,62
+1440,Supertel Violet Hill,20814,72584,36.14421,-91.84427,Violet Hill,AR,234
+1441,Supertel Lowndes,17650,63951,37.10875,-90.26055,Lowndes,MO,226
+1442,Supertel Shanksville,35929,15560,40.01687,-78.90664,Shanksville,PA,36
+1443,Supertel White Plains,9293,10605,41.0095,-73.74518,White Plains,NY,51
+1444,Supertel Everton,24531,72633,36.14023,-92.87572,Everton,AR,157
+1445,Supertel Rehoboth Beach,2088,19971,38.69113,-75.10132,Rehoboth Beach,DE,100
+1446,Supertel Webster,40028,33597,28.52675,-82.08613,Webster,FL,144
+1447,Supertel De Soto,25014,63020,38.10706,-90.5718,De Soto,MO,38
+1448,Supertel Indiana,29014,15701,40.62935,-79.15056,Indiana,PA,138
+1449,Supertel Columbia,17855,50057,41.17859,-93.14554,Columbia,IA,21
+1450,Supertel Ashburnham,20173,1430,42.66069,-71.9232,Ashburnham,MA,217
+1451,Supertel Lindon,22888,80740,39.74256,-103.38744,Lindon,CO,292
+1452,Supertel Rome,43350,44085,41.60463,-80.87128,Rome,OH,85
+1453,Supertel Graysville,7897,35073,33.65377,-86.98051,Graysville,AL,54
+1454,Supertel Kintyre,17485,58549,46.46853,-99.93305,Kintyre,ND,129
+1455,Supertel Plympton,24597,2367,41.96345,-70.80975,Plympton,MA,233
+1456,Supertel River Falls,806,36476,31.35359,-86.54633,River Falls,AL,286
+1457,Supertel Neptune,14776,7753,40.21184,-74.07421,Neptune,NJ,96
+1458,Supertel Clovis,10977,88101,34.50114,-103.26616,Clovis,NM,144
+1459,Supertel Boise,36752,83704,43.62765,-116.28716,Boise,ID,59
+1460,Supertel Sun River,33538,59483,47.47212,-111.72261,Sun River,MT,194
+1461,Supertel Florence,23894,59833,46.64437,-114.07678,Florence,MT,92
+1462,Supertel Portage,32334,49002,42.19867,-85.55906,Portage,MI,187
+1463,Supertel Oregonia,29427,45054,39.43844,-84.07418,Oregonia,OH,236
+1464,Supertel Kitzmiller,49267,21538,39.40133,-79.22109,Kitzmiller,MD,56
+1465,Supertel Raton,20994,87740,36.76707,-104.37953,Raton,NM,42
+1466,Supertel Diboll,40989,75941,31.18078,-94.76219,Diboll,TX,169
+1467,Supertel Welda,19179,66091,38.16952,-95.32701,Welda,KS,47
+1468,Supertel Lostant,7506,61334,41.14731,-89.09935,Lostant,IL,160
+1469,Supertel Tatum,26219,88267,33.30983,-103.39329,Tatum,NM,54
+1470,Supertel Sharpsburg,23516,50862,40.81304,-94.65136,Sharpsburg,IA,297
+1471,Supertel Colorado Springs,28966,80904,38.86321,-104.87197,Colorado Springs,CO,190
+1472,Supertel Silver City,1860,89428,39.25691,-119.63099,Silver City,NV,185
+1473,Supertel McMillan,22123,49853,46.36112,-85.74494,McMillan,MI,158
+1474,Supertel East Sparta,5766,44626,40.68994,-81.38404,East Sparta,OH,235
+1475,Supertel Genesee,9226,16941,41.98841,-77.75796,Genesee,PA,272
+1476,Supertel Pacolet Mills,1891,29373,34.92442,-81.74276,Pacolet Mills,SC,179
+1477,Supertel Saint John,10640,58369,48.95257,-99.83603,Saint John,ND,266
+1478,Supertel Worth,43526,64499,40.39707,-94.41521,Worth,MO,103
+1479,Supertel Craigsville,5260,24430,38.076,-79.34181,Craigsville,VA,205
+1480,Supertel South Dos Palos,9910,93665,36.96334,-120.65034,South Dos Palos,CA,242
+1481,Supertel Axtell,49882,84621,39.05109,-111.82959,Axtell,UT,233
+1482,Supertel Wales,33181,1081,42.06232,-72.23085,Wales,MA,249
+1483,Supertel Farmersville,8425,45325,39.69297,-84.4269,Farmersville,OH,166
+1484,Supertel Portage Des Sioux,33940,63373,38.92776,-90.39563,Portage Des Sioux,MO,225
+1485,Supertel Nolanville,33654,76559,31.07987,-97.61079,Nolanville,TX,63
+1486,Supertel Cheney,5115,67025,37.64146,-97.78789,Cheney,KS,97
+1487,Supertel Camden,36658,64017,39.199,-94.02951,Camden,MO,143
+1488,Supertel Oreland,4200,19075,40.1136,-75.18852,Oreland,PA,35
+1489,Supertel Chaplin,36937,40012,37.90697,-85.17376,Chaplin,KY,168
+1490,Supertel Evergreen,5180,36401,31.47123,-86.94928,Evergreen,AL,106
+1491,Supertel Spartanburg,5333,29303,34.99424,-81.96883,Spartanburg,SC,30
+1492,Supertel Ebervale,36458,18223,40.98221,-75.95011,Ebervale,PA,20
+1493,Supertel Powersville,37380,64672,40.53869,-93.26015,Powersville,MO,92
+1494,Supertel Port Royal,15903,29935,32.38277,-80.6963,Port Royal,SC,276
+1495,Supertel Sheboygan,44712,53083,43.81511,-87.77108,Sheboygan,WI,173
+1496,Supertel Atlanta,999,30338,33.9437,-84.31801,Atlanta,GA,248
+1497,Supertel Valley Ford,3499,94972,38.33665,-122.93934,Valley Ford,CA,121
+1498,Supertel Washington,10052,20418,38.8928,-77.04776,Washington,DC,133
+1499,Supertel Nemours,11075,24738,37.3032,-81.32013,Nemours,WV,103
+1500,Supertel Jackson,45264,83001,43.4094,-110.60884,Jackson,WY,45
+1501,Supertel Moroni,27592,84646,39.54565,-111.61121,Moroni,UT,195
+1502,Supertel Tacoma,42,98403,47.26581,-122.45921,Tacoma,WA,292
+1503,Supertel Carmen,27829,73726,36.58022,-98.50405,Carmen,OK,41
+1504,Supertel Brewerton,46093,13029,43.2236,-76.14993,Brewerton,NY,24
+1505,Supertel Tome,43490,87060,34.74292,-106.73571,Tome,NM,48
+1506,Supertel Scranton,15322,58653,46.09645,-103.12946,Scranton,ND,227
+1507,Supertel Hershey,45014,17033,40.26829,-76.62754,Hershey,PA,161
+1508,Supertel Selbyville,64,26236,38.71755,-80.23088,Selbyville,WV,190
+1509,Supertel Arab,48188,35016,34.32545,-86.5033,Arab,AL,260
+1510,Supertel Brooklyn,35569,11219,40.63267,-73.99672,Brooklyn,NY,145
+1511,Supertel Hollywood,177,33026,26.02575,-80.29625,Hollywood,FL,150
+1512,Supertel Weiser,27790,83672,44.38095,-116.97188,Weiser,ID,44
+1513,Supertel Bearden,21961,71720,33.79075,-92.64163,Bearden,AR,91
+1514,Supertel Colebrook,7124,6021,42.00152,-73.08078,Colebrook,CT,151
+1515,Supertel Athens,16490,30607,34.01895,-83.44774,Athens,GA,229
+1516,Supertel Newry,823,16665,40.38898,-78.43491,Newry,PA,26
+1517,Supertel East Glacier Park,26174,59434,48.68682,-113.55678,East Glacier Park,MT,77
+1518,Supertel Incline Village,30136,89451,39.26775,-119.94534,Incline Village,NV,114
+1519,Supertel Pittston,34591,18641,41.33644,-75.73007,Pittston,PA,128
+1520,Supertel Carver,10904,55315,44.71731,-93.68347,Carver,MN,238
+1521,Supertel Hinsdale,27544,60521,41.80019,-87.92883,Hinsdale,IL,113
+1522,Supertel Pittstown,195,8867,40.57513,-74.96777,Pittstown,NJ,86
+1523,Supertel Inman,35970,29349,35.07045,-82.0688,Inman,SC,203
+1524,Supertel Plainview,34672,55964,44.16448,-92.15483,Plainview,MN,272
+1525,Supertel Oscoda,5618,48750,44.44338,-83.45652,Oscoda,MI,253
+1526,Supertel Rodeo,36906,88056,31.84062,-109.00295,Rodeo,NM,109
+1527,Supertel Northpoint,14659,15763,40.90718,-79.12795,Northpoint,PA,20
+1528,Supertel Cobb,23046,95426,38.83449,-122.7361,Cobb,CA,94
+1529,Supertel Altus,47909,73521,34.63547,-99.31538,Altus,OK,20
+1530,Supertel Northport,7761,11768,40.91052,-73.32611,Northport,NY,68
+1531,Supertel Cortez,46240,81321,37.31826,-108.76267,Cortez,CO,199
+1532,Supertel Bowdle,36665,57428,45.44984,-99.67922,Bowdle,SD,177
+1533,Supertel Bentley,37203,71407,31.51837,-92.48402,Bentley,LA,182
+1534,Supertel El Paso,1866,79906,31.80906,-106.41954,El Paso,TX,174
+1535,Supertel Martin,23166,38237,36.36406,-88.83162,Martin,TN,52
+1536,Supertel Ozan,6319,71855,33.86612,-93.74351,Ozan,AR,152
+1537,Supertel Madison,5927,53713,43.03743,-89.39254,Madison,WI,134
+1538,Supertel Sheridan,45007,82801,44.83618,-106.89258,Sheridan,WY,65
+1539,Supertel Brooklyn,30839,11239,40.64733,-73.87136,Brooklyn,NY,279
+1540,Supertel Orlando,41003,32830,28.38643,-81.56732,Orlando,FL,45
+1541,Supertel Salisbury,16278,21804,38.31726,-75.53673,Salisbury,MD,76
+1542,Supertel Sherman,24600,4776,45.8105,-68.31818,Sherman,ME,36
+1543,Supertel Andover,1333,61233,41.29464,-90.29129,Andover,IL,177
+1544,Supertel Linthicum Heights,15213,21090,39.20919,-76.66796,Linthicum Heights,MD,120
+1545,Supertel Martins Creek,10798,18063,40.78229,-75.18164,Martins Creek,PA,295
+1546,Supertel Buford,35424,82052,41.12399,-105.34802,Buford,WY,26
+1547,Supertel Robbinston,38953,4671,45.06618,-67.16247,Robbinston,ME,228
+1548,Supertel Waterville,6514,52170,43.22886,-91.30485,Waterville,IA,300
+1549,Supertel West Bend,10546,50597,42.97379,-94.45048,West Bend,IA,297
+1550,Supertel Charlotte,11875,28209,35.17878,-80.85418,Charlotte,NC,156
+1551,Supertel Indianapolis,44107,46236,39.89132,-85.96766,Indianapolis,IN,251
+1552,Supertel Austin,45926,78721,30.27127,-97.68345,Austin,TX,249
+1553,Supertel Prosperity,28756,25909,37.83687,-81.20192,Prosperity,WV,276
+1554,Supertel Centre,32092,35960,34.12515,-85.56786,Centre,AL,62
+1555,Supertel Hammond,47026,54015,44.96899,-92.45419,Hammond,WI,135
+1556,Supertel Mcnary,48037,85930,34.02744,-109.77141,Mcnary,AZ,66
+1557,Supertel Glenwood,17206,71943,34.33488,-93.60633,Glenwood,AR,174
+1558,Supertel Herkimer,26336,13350,43.06352,-74.98817,Herkimer,NY,158
+1559,Supertel Hanston,32414,67849,38.15061,-99.71725,Hanston,KS,214
+1560,Supertel Rifle,31646,81650,39.75926,-108.11201,Rifle,CO,132
+1561,Supertel Keyport,16321,7735,40.44108,-74.2028,Keyport,NJ,222
+1562,Supertel Beverly Hills,18862,90210,34.10251,-118.41505,Beverly Hills,CA,284
+1563,Supertel Johnson City,32369,13790,42.16937,-75.99796,Johnson City,NY,79
+1564,Supertel Del Mar,43385,92014,32.96797,-117.24879,Del Mar,CA,95
+1565,Supertel Pevely,34848,63070,38.28625,-90.41822,Pevely,MO,60
+1566,Supertel Rumford,37067,4276,44.53469,-70.61541,Rumford,ME,25
+1567,Supertel McLain,39922,39456,31.0282,-88.81819,McLain,MS,131
+1568,Supertel Highland,21560,45132,39.34395,-83.5996,Highland,OH,196
+1569,Supertel Wayland,19974,1778,42.3583,-71.35895,Wayland,MA,281
+1570,Supertel Schulenburg,19051,78956,29.68322,-96.93454,Schulenburg,TX,87
+1571,Supertel Grantham,2593,3753,43.51534,-72.14798,Grantham,NH,276
+1572,Supertel Hague,31615,12836,43.74994,-73.56816,Hague,NY,49
+1573,Supertel Pierrepont Manor,15705,13674,43.73763,-76.05192,Pierrepont Manor,NY,254
+1574,Supertel Buck Creek,30371,47924,40.48991,-86.75759,Buck Creek,IN,298
+1575,Supertel Eunice,48594,70535,30.47999,-92.42367,Eunice,LA,287
+1576,Supertel McNeil,32373,71752,33.40061,-93.19454,McNeil,AR,221
+1577,Supertel Belle Valley,1133,43717,39.78943,-81.5548,Belle Valley,OH,232
+1578,Supertel Little Rock,5965,51243,43.4425,-95.90287,Little Rock,IA,25
+1579,Supertel Allenwood,11560,8720,40.14073,-74.11431,Allenwood,NJ,142
+1580,Supertel High Ridge,36758,63049,38.47795,-90.52867,High Ridge,MO,225
+1581,Supertel Creston,26019,26141,38.92925,-81.26059,Creston,WV,160
+1582,Supertel Houston,2692,77044,29.89808,-95.17685,Houston,TX,104
+1583,Supertel Box Springs,44954,31801,32.51765,-84.5906,Box Springs,GA,266
+1584,Supertel Mountainville,35509,10953,41.40581,-74.07783,Mountainville,NY,178
+1585,Supertel Virginville,40177,19564,40.51926,-75.87403,Virginville,PA,286
+1586,Supertel Piedmont,19294,43983,40.13886,-81.20296,Piedmont,OH,156
+1587,Supertel Millcreek,4705,62961,37.34063,-89.25378,Millcreek,IL,234
+1588,Supertel Fulton,43677,42041,36.54593,-88.87456,Fulton,KY,250
+1589,Supertel Adrian,552,79001,35.2824,-102.8023,Adrian,TX,128
+1590,Supertel Dorrance,34122,67634,38.82654,-98.6073,Dorrance,KS,273
+1591,Supertel Wadsworth,8118,77483,28.77467,-95.86638,Wadsworth,TX,183
+1592,Supertel Millry,40992,36558,31.61606,-88.33034,Millry,AL,34
+1593,Supertel Littleton,16238,3561,44.33222,-71.80973,Littleton,NH,85
+1594,Supertel Halcottsville,21345,12438,42.21251,-74.59667,Halcottsville,NY,33
+1595,Supertel Lindsay,32876,93247,36.20234,-119.08277,Lindsay,CA,293
+1596,Supertel Minneapolis,30861,55435,44.87343,-93.3347,Minneapolis,MN,134
+1597,Supertel Tunkhannock,43865,18657,41.52712,-75.95601,Tunkhannock,PA,295
+1598,Supertel Mantua,17726,84324,41.49253,-111.93868,Mantua,UT,236
+1599,Supertel East Sparta,44521,44626,40.68994,-81.38404,East Sparta,OH,196
+1600,Supertel Newberry,36945,47449,38.92672,-86.9894,Newberry,IN,247
+1601,Supertel Victoria,13296,77905,28.72789,-97.0508,Victoria,TX,30
+1602,Supertel Morganton,37111,28655,35.75578,-81.74212,Morganton,NC,271
+1603,Supertel Sidney Center,14635,13839,42.24824,-75.26007,Sidney Center,NY,101
+1604,Supertel Bybee,39966,37713,36.09073,-83.13373,Bybee,TN,120
+1605,Supertel Tuskegee Institute,25139,36088,32.41911,-85.718,Tuskegee Institute,AL,167
+1606,Supertel Hope Mills,45808,28348,34.92691,-78.91313,Hope Mills,NC,87
+1607,Supertel Renville,43135,56284,44.77729,-95.20204,Renville,MN,47
+1608,Supertel Commodore,28746,15729,40.70583,-78.92049,Commodore,PA,196
+1609,Supertel Fenton,42474,50539,43.23543,-94.41849,Fenton,IA,165
+1610,Supertel Pasadena,31681,91106,34.13861,-118.12825,Pasadena,CA,178
+1611,Supertel Supply,33389,28462,34.0,-78.30497,Supply,NC,261
+1612,Supertel Port Alexander,2256,99836,56.23558,-134.65333,Port Alexander,AK,184
+1613,Supertel Centerville,10380,16404,41.72483,-79.79018,Centerville,PA,213
+1614,Supertel Charlo,42163,59824,47.41817,-114.20362,Charlo,MT,172
+1615,Supertel Yeaddiss,2278,41777,37.06022,-83.23276,Yeaddiss,KY,28
+1616,Supertel Alpine,37153,35014,33.36097,-86.25909,Alpine,AL,109
+1617,Supertel Cincinnati,33048,45236,39.20949,-84.39701,Cincinnati,OH,37
+1618,Supertel Louisville,16729,40206,38.25788,-85.70205,Louisville,KY,246
+1619,Supertel North Creek,35061,12853,43.68816,-73.99804,North Creek,NY,288
+1620,Supertel Holcomb,38398,67851,38.08796,-101.01972,Holcomb,KS,178
+1621,Supertel Chattahoochee,36973,32324,30.65635,-84.79126,Chattahoochee,FL,298
+1622,Supertel Chicken,562,99732,64.07945,-141.97039,Chicken,AK,83
+1623,Supertel Brownell,12756,67521,38.62575,-99.72253,Brownell,KS,127
+1624,Supertel Indian Wells,22165,86031,35.3534,-110.0647,Indian Wells,AZ,184
+1625,Supertel Onalaska,7328,77360,30.8471,-95.11394,Onalaska,TX,285
+1626,Supertel Palmer,45059,1069,42.18798,-72.30578,Palmer,MA,72
+1627,Supertel Goodridge,33691,56725,48.1477,-95.70485,Goodridge,MN,121
+1628,Supertel Quinault,8985,98575,47.43607,-123.79848,Quinault,WA,127
+1629,Supertel New Baden,13426,62265,38.50808,-89.67797,New Baden,IL,35
+1630,Supertel Brooklyn,15470,21225,39.22597,-76.61508,Brooklyn,MD,165
+1631,Supertel La Jara,26883,87027,36.12734,-106.94737,La Jara,NM,280
+1632,Supertel Kieler,39637,53812,42.5808,-90.60239,Kieler,WI,119
+1633,Supertel Ashburn,15340,20148,38.99062,-77.53284,Ashburn,VA,222
+1634,Supertel Eunice,30592,65468,37.25434,-91.79824,Eunice,MO,179
+1635,Supertel Cleveland,32656,37323,35.09627,-84.81984,Cleveland,TN,174
+1636,Supertel Albion,35169,4910,44.517,-69.44123,Albion,ME,297
+1637,Supertel Sullivan City,33130,78595,26.31457,-98.54038,Sullivan City,TX,48
+1638,Supertel Eagle Lake,49215,33839,27.97481,-81.75365,Eagle Lake,FL,288
+1639,Supertel Moultrie,24087,31768,31.19329,-83.84047,Moultrie,GA,121
+1640,Supertel Chilcoot,3170,96105,39.82478,-120.1821,Chilcoot,CA,110
+1641,Supertel Los Angeles,32171,90042,34.11475,-118.192,Los Angeles,CA,103
+1642,Supertel West Newton,5025,15089,40.22063,-79.73719,West Newton,PA,67
+1643,Supertel Harford,22383,13784,42.43542,-76.2177,Harford,NY,138
+1644,Supertel Roseland,28772,68973,40.45014,-98.55962,Roseland,NE,38
+1645,Supertel New Providence,12245,17560,39.91117,-76.22712,New Providence,PA,245
+1646,Supertel Florence,22266,57235,45.06896,-97.31338,Florence,SD,182
+1647,Supertel La Moille,27775,61330,41.53602,-89.27756,La Moille,IL,224
+1648,Supertel Long Prairie,13893,56347,45.96978,-94.86155,Long Prairie,MN,220
+1649,Supertel Perryville,1552,40468,37.65158,-84.98782,Perryville,KY,220
+1650,Supertel Washburn,46533,61570,40.91933,-89.31578,Washburn,IL,31
+1651,Supertel West Winfield,10304,13491,42.85957,-75.17698,West Winfield,NY,123
+1652,Supertel Westfield,46415,62474,39.43526,-87.99462,Westfield,IL,215
+1653,Supertel Alston,45269,30412,32.07973,-82.48643,Alston,GA,108
+1654,Supertel Emblem,38091,82422,44.49768,-108.37943,Emblem,WY,84
+1655,Supertel Fairfax,21836,55332,44.51852,-94.70761,Fairfax,MN,186
+1656,Supertel Lorado,2506,25630,37.79821,-81.6816,Lorado,WV,71
+1657,Supertel Woodlake,49712,75865,31.05808,-94.96228,Woodlake,TX,136
+1658,Supertel Erie,31531,16504,42.10942,-80.0489,Erie,PA,197
+1659,Supertel Niobrara,41588,68760,42.76616,-98.03831,Niobrara,NE,104
+1660,Supertel Galena,40205,99741,64.73808,-156.86351,Galena,AK,49
+1661,Supertel Memphis,11526,38135,35.23876,-89.8497,Memphis,TN,265
+1662,Supertel Fort Myers,36682,33919,26.55607,-81.90388,Fort Myers,FL,283
+1663,Supertel San Antonio,27548,78264,29.19868,-98.50534,San Antonio,TX,59
+1664,Supertel Tarrytown,34834,30470,32.33018,-82.51818,Tarrytown,GA,282
+1665,Supertel Penn Valley,48424,95946,39.21052,-121.20467,Penn Valley,CA,202
+1666,Supertel Syracuse,35861,13215,42.97852,-76.22979,Syracuse,NY,76
+1667,Supertel Minot,25041,58703,48.32646,-101.31637,Minot,ND,125
+1668,Supertel Goodwell,4224,73939,36.76824,-101.78344,Goodwell,OK,265
+1669,Supertel Avondale,17957,24811,37.40881,-81.75381,Avondale,WV,249
+1670,Supertel Kendall,33259,14476,43.32946,-78.04226,Kendall,NY,191
+1671,Supertel Yamhill,40215,97148,45.35988,-123.26553,Yamhill,OR,198
+1672,Supertel Hammond,30498,61929,39.82338,-88.62271,Hammond,IL,272
+1673,Supertel Wideman,19851,72585,36.17861,-92.01454,Wideman,AR,138
+1674,Supertel Denver,23043,80249,39.84964,-104.69496,Denver,CO,292
+1675,Supertel Louisville,13461,40220,38.21535,-85.61794,Louisville,KY,199
+1676,Supertel Cincinnati,3069,45227,39.15403,-84.38524,Cincinnati,OH,279
+1677,Supertel Alexandria,33714,22308,38.72957,-77.05876,Alexandria,VA,112
+1678,Supertel Burneyville,25704,73430,33.91,-97.36106,Burneyville,OK,117
+1679,Supertel Henderson,22605,38340,35.40021,-88.68226,Henderson,TN,238
+1680,Supertel Pleasant Valley,5678,12569,41.7346,-73.79731,Pleasant Valley,NY,68
+1681,Supertel Edison,24842,8817,40.51559,-74.3939,Edison,NJ,147
+1682,Supertel Lampe,46448,65681,36.55211,-93.46658,Lampe,MO,282
+1683,Supertel Sullivan,15217,53178,43.02335,-88.59894,Sullivan,WI,262
+1684,Supertel Mcintosh,34669,56556,47.66403,-95.88349,Mcintosh,MN,89
+1685,Supertel Vandemere,46314,28587,35.18714,-76.66783,Vandemere,NC,22
+1686,Supertel North Fort Myers,33172,33917,26.75403,-81.84779,North Fort Myers,FL,294
+1687,Supertel Saint Joseph,6291,38481,35.02813,-87.48863,Saint Joseph,TN,293
+1688,Supertel Mark,19472,61340,41.26396,-89.25123,Mark,IL,24
+1689,Supertel Ozark,34599,62972,37.5419,-88.8162,Ozark,IL,70
+1690,Supertel Skipwith,20422,23968,36.72123,-78.51922,Skipwith,VA,244
+1691,Supertel Lerna,49333,62440,39.39433,-88.26325,Lerna,IL,25
+1692,Supertel Patoka,20036,47666,38.41922,-87.60042,Patoka,IN,273
+1693,Supertel Columbus,3400,31904,32.55189,-85.00009,Columbus,GA,82
+1694,Supertel Land O'Lakes,4794,34637,28.29589,-82.46368,Land O'Lakes,FL,155
+1695,Supertel Paradise,2941,49768,46.63217,-85.13434,Paradise,MI,76
+1696,Supertel Rogers,46237,41365,37.71117,-83.62663,Rogers,KY,81
+1697,Supertel Elmo,26271,59915,47.82025,-114.41124,Elmo,MT,23
+1698,Supertel New Castle,18032,16102,40.96173,-80.41616,New Castle,PA,107
+1699,Supertel Elk River,44310,83827,46.78035,-116.17469,Elk River,ID,228
+1700,Supertel Larned,28225,67550,38.18121,-99.12487,Larned,KS,297
+1701,Supertel Ridge,26354,20680,38.11071,-76.37353,Ridge,MD,183
+1702,Supertel Faribault,2214,55021,44.2973,-93.27414,Faribault,MN,228
+1703,Supertel Forestville,12539,48434,43.65988,-82.61263,Forestville,MI,90
+1704,Supertel Douglas City,19862,96024,40.58767,-122.90143,Douglas City,CA,51
+1705,Supertel Winterport,10475,4496,44.65839,-68.91189,Winterport,ME,199
+1706,Supertel Neola,9780,51559,41.46034,-95.66049,Neola,IA,233
+1707,Supertel San Diego,42802,92129,32.96354,-117.12622,San Diego,CA,30
+1708,Supertel Preble,21494,13141,42.76684,-76.18616,Preble,NY,279
+1709,Supertel Vienna,26981,22180,38.89619,-77.25426,Vienna,VA,151
+1710,Supertel Chesterfield,44540,3443,42.8767,-72.46148,Chesterfield,NH,266
+1711,Supertel Addy,3556,99101,48.31889,-117.9483,Addy,WA,25
+1712,Supertel West Mifflin,19525,15123,40.34817,-79.93471,West Mifflin,PA,128
+1713,Supertel Meridian,21597,39307,32.33847,-88.79217,Meridian,MS,110
+1714,Supertel Lenora,16341,67645,39.60144,-99.89604,Lenora,KS,187
+1715,Supertel Seaford,6029,23696,37.19249,-76.42589,Seaford,VA,98
+1716,Supertel Madeline,28361,96119,41.03353,-120.55264,Madeline,CA,189
+1717,Supertel Harris,22906,64645,40.29834,-93.32575,Harris,MO,256
+1718,Supertel Port Orchard,11715,98366,47.53732,-122.58647,Port Orchard,WA,63
+1719,Supertel Herrick,4321,57538,43.12167,-99.15551,Herrick,SD,242
+1720,Supertel Cheraw,26574,29520,34.68083,-79.92601,Cheraw,SC,98
+1721,Supertel Waynesville,14857,28786,35.46272,-82.99294,Waynesville,NC,294
+1722,Supertel Englewood,38557,34224,26.91902,-82.30581,Englewood,FL,119
+1723,Supertel Mowrystown,4965,45155,39.04057,-83.75181,Mowrystown,OH,50
+1724,Supertel Brandon,46838,57005,43.59281,-96.58728,Brandon,SD,264
+1725,Supertel Durham,25906,4222,43.9644,-70.12954,Durham,ME,126
+1726,Supertel Minneapolis,22576,55454,44.97075,-93.24381,Minneapolis,MN,124
+1727,Supertel Dresher,44299,19025,40.14556,-75.1632,Dresher,PA,184
+1728,Supertel Davis,30343,73030,34.47142,-97.18584,Davis,OK,20
+1729,Supertel Dayville,44748,97825,44.38804,-119.51852,Dayville,OR,173
+1730,Supertel San Juan,14411,920,18.41904,-66.09023,San Juan,PR,105
+1731,Supertel Williamstown,35271,8094,39.65096,-74.96529,Williamstown,NJ,80
+1732,Supertel Vestaburg,24238,48891,43.39676,-84.91469,Vestaburg,MI,43
+1733,Supertel Bethel,35732,63434,39.90591,-91.9507,Bethel,MO,29
+1734,Supertel Ballinger,39885,76821,31.73862,-99.94963,Ballinger,TX,269
+1735,Supertel Peru,1871,67360,37.05148,-96.09702,Peru,KS,67
+1736,Supertel Ypsilanti,24058,58497,46.76738,-98.54076,Ypsilanti,ND,88
+1737,Supertel Harrington,27499,4643,44.57876,-67.80562,Harrington,ME,180
+1738,Supertel Sayville,35577,11782,40.73727,-73.08024,Sayville,NY,156
+1739,Supertel Louisville,23940,40208,38.2176,-85.7659,Louisville,KY,286
+1740,Supertel Bluebell,11035,84007,40.34115,-110.21717,Bluebell,UT,50
+1741,Supertel Ewen,37270,49925,46.55088,-89.37681,Ewen,MI,70
+1742,Supertel Walkersville,15960,26447,38.90546,-80.4854,Walkersville,WV,200
+1743,Supertel Edmond,30541,73025,35.73199,-97.5727,Edmond,OK,183
+1744,Supertel Grovetown,4037,30813,33.47037,-82.2193,Grovetown,GA,111
+1745,Supertel New Edinburg,3757,71660,33.7627,-92.19728,New Edinburg,AR,70
+1746,Supertel Houston,44683,77011,29.743,-95.30785,Houston,TX,132
+1747,Supertel Elmwood,20611,54740,44.74427,-92.15853,Elmwood,WI,137
+1748,Supertel Basalt,21739,83218,43.31803,-112.16453,Basalt,ID,218
+1749,Supertel Harrisburg,4155,17102,40.27119,-76.89686,Harrisburg,PA,103
+1750,Supertel Bay Port,28742,48720,43.8294,-83.34808,Bay Port,MI,84
+1751,Supertel Cromona,38815,41810,37.18492,-82.67278,Cromona,KY,291
+1752,Supertel Bangs,48503,76823,31.68718,-99.16205,Bangs,TX,23
+1753,Supertel Metropolis,15978,62960,37.22515,-88.71097,Metropolis,IL,178
+1754,Supertel Manton,7815,49663,44.42494,-85.39147,Manton,MI,209
+1755,Supertel Diamond Point,12859,12824,43.5279,-73.71386,Diamond Point,NY,24
+1756,Supertel Norwich,26519,5055,43.75481,-72.31145,Norwich,VT,66
+1757,Supertel Langtry,22758,78871,29.90185,-101.62018,Langtry,TX,222
+1758,Supertel Butte Falls,39316,97522,42.56594,-122.46886,Butte Falls,OR,74
+1759,Supertel Ames,1976,50010,42.03316,-93.58761,Ames,IA,276
+1760,Supertel Chicago,36989,60638,41.78175,-87.77057,Chicago,IL,170
+1761,Supertel Lee,21680,3861,43.11931,-71.0068,Lee,NH,199
+1762,Supertel Durham,36596,67438,38.50366,-97.27861,Durham,KS,177
+1763,Supertel Tower City,39015,58071,46.9436,-97.68278,Tower City,ND,130
+1764,Supertel West Jordan,44097,84084,40.62139,-111.96603,West Jordan,UT,97
+1765,Supertel Merizo,47818,96916,13.26593,144.68915,Merizo,GU,248
+1766,Supertel Malone,46784,98559,46.95884,-123.32749,Malone,WA,261
+1767,Supertel Burlington,30947,58722,48.25238,-101.50079,Burlington,ND,113
+1768,Supertel McCaskill,35922,71847,33.92616,-93.63361,McCaskill,AR,110
+1769,Supertel North Hollywood,13930,91602,34.15078,-118.36633,North Hollywood,CA,24
+1770,Supertel Quincy,46558,65735,38.03728,-93.48391,Quincy,MO,171
+1771,Supertel Dillard,22218,97432,43.10445,-123.4294,Dillard,OR,227
+1772,Supertel Uniontown,34926,72955,35.6081,-94.44445,Uniontown,AR,111
+1773,Supertel Turner,12541,48765,44.15367,-83.71885,Turner,MI,118
+1774,Supertel Viroqua,19320,54665,43.5319,-90.92134,Viroqua,WI,51
+1775,Supertel Old Chatham,36608,12136,42.43249,-73.56016,Old Chatham,NY,75
+1776,Supertel Rockmart,44135,30153,33.96678,-85.05425,Rockmart,GA,297
+1777,Supertel Germantown,6807,38139,35.08615,-89.75581,Germantown,TN,133
+1778,Supertel Moss Point,14248,39563,30.42449,-88.52601,Moss Point,MS,148
+1779,Supertel North Java,25328,14113,42.66813,-78.33624,North Java,NY,225
+1780,Supertel Chambersville,37057,15723,40.70066,-79.1582,Chambersville,PA,114
+1781,Supertel Lee,143,1238,42.30072,-73.22553,Lee,MA,221
+1782,Supertel Dewittville,11561,14728,42.2648,-79.41689,Dewittville,NY,110
+1783,Supertel Orwell,25879,44076,41.52728,-80.81867,Orwell,OH,30
+1784,Supertel Farmington,9538,87401,36.73824,-108.18377,Farmington,NM,111
+1785,Supertel Fisher,18282,72429,35.48895,-90.93972,Fisher,AR,276
+1786,Supertel Siler,7776,40763,36.68848,-83.94403,Siler,KY,114
+1787,Supertel Faison,38564,28341,35.11919,-78.17577,Faison,NC,27
+1788,Supertel Newport,18204,2841,41.51261,-71.32522,Newport,RI,234
+1789,Supertel Lake City,48435,51449,42.26614,-94.73475,Lake City,IA,101
+1790,Supertel West Elizabeth,44806,15088,40.27159,-79.89607,West Elizabeth,PA,210
+1791,Supertel Stockertown,26154,18083,40.75494,-75.2637,Stockertown,PA,123
+1792,Supertel Elizabeth,49322,15037,40.25649,-79.85017,Elizabeth,PA,116
+1793,Supertel Sanford,9063,23426,37.92706,-75.67506,Sanford,VA,71
+1794,Supertel Beyer,12220,16211,40.79436,-79.2023,Beyer,PA,224
+1795,Supertel West Columbia,7115,25287,38.96158,-82.04834,West Columbia,WV,283
+1796,Supertel Plainfield,37550,17081,40.20121,-77.28322,Plainfield,PA,249
+1797,Supertel Salt Lake City,3043,84106,40.70678,-111.85571,Salt Lake City,UT,153
+1798,Supertel Zebulon,12652,27597,35.84034,-78.30303,Zebulon,NC,73
+1799,Supertel Martinsville,43909,24112,36.72378,-79.84921,Martinsville,VA,227
+1800,Supertel Bylas,40045,85530,33.09361,-110.23109,Bylas,AZ,22
+1801,Supertel Chagrin Falls,48372,44022,41.44747,-81.4045,Chagrin Falls,OH,109
+1802,Supertel David City,38092,68632,41.24266,-97.13288,David City,NE,46
+1803,Supertel Geneseo,26244,67444,38.54759,-98.12702,Geneseo,KS,276
+1804,Supertel De Pere,20234,54115,44.40552,-88.09195,De Pere,WI,59
+1805,Supertel Puposky,2516,56667,47.73569,-94.94199,Puposky,MN,281
+1806,Supertel Shoreham,22411,5770,43.88662,-73.32771,Shoreham,VT,87
+1807,Supertel Merigold,40059,38759,33.82495,-90.73501,Merigold,MS,219
+1808,Supertel North Manchester,5585,46962,40.98774,-85.76675,North Manchester,IN,252
+1809,Supertel White Sulphur Springs,9750,12787,41.7931,-74.8365,White Sulphur Springs,NY,262
+1810,Supertel Abbott,30326,76621,31.87789,-97.08891,Abbott,TX,278
+1811,Supertel Walnutport,6313,18088,40.76578,-75.5576,Walnutport,PA,188
+1812,Supertel Arverne,72,11692,40.59373,-73.79201,Arverne,NY,262
+1813,Supertel Tyrone,38978,88065,32.71375,-108.30231,Tyrone,NM,300
+1814,Supertel Farley,41983,52046,42.44024,-91.0119,Farley,IA,66
+1815,Supertel Monroe,12096,84754,38.60521,-112.11747,Monroe,UT,180
+1816,Supertel Oneonta,99,35121,33.9397,-86.454,Oneonta,AL,286
+1817,Supertel Paoli,25916,73074,34.83269,-97.27917,Paoli,OK,116
+1818,Supertel Louisville,19341,40272,38.08291,-85.85315,Louisville,KY,152
+1819,Supertel Kirkman,49229,51447,41.72101,-95.19196,Kirkman,IA,43
+1820,Supertel Gig Harbor,34066,98332,47.36514,-122.59858,Gig Harbor,WA,247
+1821,Supertel Frenchglen,13245,97736,42.66655,-118.92058,Frenchglen,OR,97
+1822,Supertel Sharon,17084,2067,42.10778,-71.18183,Sharon,MA,242
+1823,Supertel Scottdale,29369,15683,40.10926,-79.60492,Scottdale,PA,279
+1824,Supertel Trout Lake,13375,49793,46.21221,-85.04417,Trout Lake,MI,250
+1825,Supertel Sacramento,15431,95841,38.66031,-121.34812,Sacramento,CA,83
+1826,Supertel Iron Gate,32901,24448,37.79836,-79.79002,Iron Gate,VA,101
+1827,Supertel Evansville,30653,47714,37.95768,-87.52102,Evansville,IN,299
+1828,Supertel Blackburn,47663,65321,39.08604,-93.4526,Blackburn,MO,215
+1829,Supertel New Castle,1210,24127,37.47949,-80.19468,New Castle,VA,143
+1830,Supertel New Auburn,690,55366,44.67233,-94.2346,New Auburn,MN,240
+1831,Supertel Clarksburg,46091,20871,39.2592,-77.28187,Clarksburg,MD,62
+1832,Supertel Patchogue,11524,11772,40.76118,-72.9875,Patchogue,NY,41
+1833,Supertel Suffolk,34399,23436,36.89516,-76.50873,Suffolk,VA,148
+1834,Supertel Towson,40334,21286,39.41374,-76.57375,Towson,MD,282
+1835,Supertel Clarksburg,9728,26301,39.28629,-80.37735,Clarksburg,WV,49
+1836,Supertel Arlington Heights,13483,60004,42.11206,-87.97895,Arlington Heights,IL,113
+1837,Supertel Ariton,10702,36311,31.60092,-85.68372,Ariton,AL,249
+1838,Supertel Shannon City,23115,50861,40.91163,-94.25685,Shannon City,IA,265
+1839,Supertel North Prairie,41879,53153,42.94056,-88.40237,North Prairie,WI,186
+1840,Supertel Somerville,30503,35670,34.46318,-86.72356,Somerville,AL,75
+1841,Supertel Scaly Mountain,4611,28775,35.01916,-83.32186,Scaly Mountain,NC,203
+1842,Supertel Fife Lake,43582,49633,44.55709,-85.19318,Fife Lake,MI,289
+1843,Supertel Papineau,26846,60956,40.96775,-87.7163,Papineau,IL,32
+1844,Supertel Belmore,44728,45815,41.157,-83.94267,Belmore,OH,26
+1845,Supertel Columbus,15713,58727,48.85542,-102.80479,Columbus,ND,250
+1846,Supertel Oakland,39400,94610,37.81229,-122.24048,Oakland,CA,283
+1847,Supertel Brooksville,18348,39739,33.23843,-88.57855,Brooksville,MS,184
+1848,Supertel Columbia,28333,29229,34.14697,-80.89316,Columbia,SC,127
+1849,Supertel Middleport,48641,17953,40.74728,-76.09969,Middleport,PA,188
+1850,Supertel Fairfax Station,24562,22039,38.74992,-77.31536,Fairfax Station,VA,20
+1851,Supertel Victoria,28031,77905,28.72789,-97.0508,Victoria,TX,156
+1852,Supertel Mount Pleasant,28858,48858,43.61483,-84.79576,Mount Pleasant,MI,242
+1853,Supertel Broadalbin,33529,12025,43.09142,-74.11924,Broadalbin,NY,239
+1854,Supertel Ellinwood,24287,67526,38.29764,-98.54711,Ellinwood,KS,182
+1855,Supertel Taft,44580,78390,28.00198,-97.35631,Taft,TX,101
+1856,Supertel Centrahoma,877,74534,34.61965,-96.36634,Centrahoma,OK,262
+1857,Supertel Hayesville,8498,52562,41.26539,-92.24858,Hayesville,IA,261
+1858,Supertel Shipman,43720,62685,39.14209,-89.99689,Shipman,IL,152
+1859,Supertel East Lynne,3733,64743,38.66596,-94.21827,East Lynne,MO,76
+1860,Supertel Breezewood,41502,15533,39.98585,-78.24566,Breezewood,PA,55
+1861,Supertel Moro,33522,62067,38.92961,-89.98837,Moro,IL,205
+1862,Supertel Riverside,12828,60546,41.83834,-87.82132,Riverside,IL,268
+1863,Supertel Middletown,7136,95461,38.762,-122.59314,Middletown,CA,22
+1864,Supertel Campaign,23132,38550,35.76982,-85.63268,Campaign,TN,104
+1865,Supertel Mobile,2259,36609,30.66086,-88.16378,Mobile,AL,260
+1866,Supertel Delta,39361,63744,37.19331,-89.71831,Delta,MO,199
+1867,Supertel Hannibal,30975,13074,43.31035,-76.54786,Hannibal,NY,164
+1868,Supertel Huddleston,2237,24104,37.13546,-79.48773,Huddleston,VA,77
+1869,Supertel Corydon,42974,42406,37.77792,-87.74496,Corydon,KY,119
+1870,Supertel Clay Center,22529,67432,39.33503,-97.17997,Clay Center,KS,241
+1871,Supertel Calliham,49491,78007,28.48212,-98.40373,Calliham,TX,27
+1872,Supertel New Albany,19384,47150,38.28831,-85.84775,New Albany,IN,33
+1873,Supertel Columbia City,47675,97018,45.8957,-122.81165,Columbia City,OR,135
+1874,Supertel Alviso,39646,95002,37.44075,-122.00047,Alviso,CA,21
+1875,Supertel Fort Oglethorpe,367,30742,34.93566,-85.24482,Fort Oglethorpe,GA,232
+1876,Supertel San Bernardino,34342,92410,34.10655,-117.29574,San Bernardino,CA,297
+1877,Supertel Candler,45895,28715,35.51247,-82.71196,Candler,NC,112
+1878,Supertel Norris City,45436,62869,37.96608,-88.28336,Norris City,IL,162
+1879,Supertel West Hickory,43083,16370,41.56586,-79.44796,West Hickory,PA,22
+1880,Supertel Fayette,42143,39069,31.6836,-91.04038,Fayette,MS,180
+1881,Supertel Pilot Point,10339,76258,33.37202,-96.9204,Pilot Point,TX,172
+1882,Supertel Glenolden,18131,19036,39.90368,-75.29323,Glenolden,PA,64
+1883,Supertel Molino,24617,32577,30.73453,-87.37471,Molino,FL,214
+1884,Supertel Walthill,27556,68067,42.1519,-96.48603,Walthill,NE,211
+1885,Supertel New York,38354,10038,40.70914,-74.00298,New York,NY,63
+1886,Supertel Mount Hope,22514,67108,37.81428,-97.68621,Mount Hope,KS,247
+1887,Supertel Kissimmee,40421,34747,28.31111,-81.59107,Kissimmee,FL,244
+1888,Supertel Somersville,31529,6072,41.98465,-72.4876,Somersville,CT,158
+1889,Supertel Loma,32829,81524,39.2842,-108.73257,Loma,CO,42
+1890,Supertel Sandia,30705,78383,28.07713,-97.94425,Sandia,TX,247
+1891,Supertel Shannon,4466,38868,34.12168,-88.74692,Shannon,MS,91
+1892,Supertel Bannister,48692,48807,43.15277,-84.40671,Bannister,MI,122
+1893,Supertel Garden Grove,32798,50103,40.79292,-93.61079,Garden Grove,IA,184
+1894,Supertel Lexington,21994,73051,35.03175,-97.24629,Lexington,OK,80
+1895,Supertel Saratoga,10677,77585,30.29949,-94.5294,Saratoga,TX,106
+1896,Supertel Lehigh,28112,67073,38.39167,-97.32624,Lehigh,KS,42
+1897,Supertel Panama City,46300,32404,30.19075,-85.51122,Panama City,FL,40
+1898,Supertel Delta,24070,52550,41.31635,-92.36254,Delta,IA,89
+1899,Supertel Meyers Chuck,37177,99903,55.73414,-132.10669,Meyers Chuck,AK,127
+1900,Supertel Lyndonville,32832,5851,44.55297,-72.05732,Lyndonville,VT,176
+1901,Supertel Valencia,11402,16059,40.70425,-79.92812,Valencia,PA,143
+1902,Supertel Astor,44578,32102,29.1359,-81.52544,Astor,FL,208
+1903,Supertel Sweet Springs,34653,65351,38.98445,-93.38628,Sweet Springs,MO,293
+1904,Supertel Portland,22980,97219,45.45413,-122.69972,Portland,OR,193
+1905,Supertel Hinton,46540,73047,35.45658,-98.31553,Hinton,OK,140
+1906,Supertel Dexter,26440,50070,41.45402,-94.23745,Dexter,IA,194
+1907,Supertel Temple,29869,4984,44.69648,-70.28054,Temple,ME,74
+1908,Supertel Forest Home,27013,36030,31.86044,-86.85697,Forest Home,AL,217
+1909,Supertel Summerfield,8735,71079,32.94811,-92.81941,Summerfield,LA,48
+1910,Supertel Iron Station,11681,28080,35.45269,-81.10995,Iron Station,NC,229
+1911,Supertel Minneapolis,3878,55436,44.90345,-93.37409,Minneapolis,MN,172
+1912,Supertel Savanna,26878,61074,42.12615,-90.13061,Savanna,IL,200
+1913,Supertel Houston,48513,77002,29.75635,-95.36538,Houston,TX,255
+1914,Supertel Keene,29379,12942,44.26023,-73.79523,Keene,NY,91
+1915,Supertel East Glacier Park,23834,59434,48.68682,-113.55678,East Glacier Park,MT,77
+1916,Supertel Wolverine,279,49799,45.26597,-84.58177,Wolverine,MI,105
+1917,Supertel Athens,47368,30609,33.93289,-83.37223,Athens,GA,75
+1918,Supertel Jadwin,6599,65501,37.47319,-91.5549,Jadwin,MO,227
+1919,Supertel Hilltop,20575,25855,37.94052,-81.15296,Hilltop,WV,272
+1920,Supertel Schlater,46556,38952,33.63041,-90.33711,Schlater,MS,102
+1921,Supertel Albuquerque,40314,87123,35.06206,-106.46991,Albuquerque,NM,287
+1922,Supertel Somerville,32762,2145,42.39206,-71.0895,Somerville,MA,252
+1923,Supertel Saint Michael,43348,15951,40.3307,-78.77209,Saint Michael,PA,76
+1924,Supertel Arab,45633,35016,34.32545,-86.5033,Arab,AL,253
+1925,Supertel Toney,48992,35773,34.89431,-86.71282,Toney,AL,73
+1926,Supertel Armington,9379,61721,40.35349,-89.32238,Armington,IL,297
+1927,Supertel Mumford,37515,14511,42.99603,-77.87762,Mumford,NY,244
+1928,Supertel Salt Lake City,27512,84114,40.77794,-111.88831,Salt Lake City,UT,93
+1929,Supertel Escondido,11349,92029,33.08555,-117.12885,Escondido,CA,184
+1930,Supertel Percy,30227,62272,38.00241,-89.61562,Percy,IL,227
+1931,Supertel Macon,11274,27551,36.43339,-78.05231,Macon,NC,38
+1932,Supertel Higginsport,18574,45131,38.78997,-83.96729,Higginsport,OH,283
+1933,Supertel Valdosta,10257,31605,30.93334,-83.23482,Valdosta,GA,95
+1934,Supertel Topeka,527,66621,39.03313,-95.70237,Topeka,KS,91
+1935,Supertel La Vergne,27832,37086,36.02177,-86.55971,La Vergne,TN,154
+1936,Supertel Corona,12767,88318,34.22491,-105.44166,Corona,NM,226
+1937,Supertel Sipsey,25148,35584,33.82161,-87.08692,Sipsey,AL,272
+1938,Supertel Bunch,28998,74931,35.69226,-94.76459,Bunch,OK,133
+1939,Supertel Boulder,11675,80305,39.97733,-105.24877,Boulder,CO,54
+1940,Supertel Garnavillo,10051,52049,42.8823,-91.20521,Garnavillo,IA,71
+1941,Supertel Chicago,10721,60623,41.84793,-87.71753,Chicago,IL,56
+1942,Supertel Anaheim,13678,92805,33.83003,-117.90568,Anaheim,CA,296
+1943,Supertel Jupiter,46598,33469,26.98275,-80.1092,Jupiter,FL,149
+1944,Supertel Baker,38723,70714,30.58634,-91.12812,Baker,LA,58
+1945,Supertel Guayama,6519,784,18.00558,-66.13651,Guayama,PR,134
+1946,Supertel Nashville,18969,37214,36.16789,-86.66296,Nashville,TN,245
+1947,Supertel Holmes,22705,19043,39.90042,-75.30891,Holmes,PA,216
+1948,Supertel Keymar,7204,21757,39.59902,-77.25906,Keymar,MD,249
+1949,Supertel Riverside,45441,49084,42.18018,-86.3852,Riverside,MI,60
+1950,Supertel Sneedville,18628,37869,36.51555,-83.24579,Sneedville,TN,247
+1951,Supertel Muskegon,32836,49444,43.17671,-86.19892,Muskegon,MI,184
+1952,Supertel Thayer,22665,62689,39.53402,-89.76555,Thayer,IL,143
+1953,Supertel Saint Louis,44273,63126,38.5496,-90.37868,Saint Louis,MO,262
+1954,Supertel Franktown,22538,80116,39.30711,-104.71947,Franktown,CO,94
+1955,Supertel Lake Pleasant,47498,1347,42.56027,-72.51321,Lake Pleasant,MA,106
+1956,Supertel Greenbelt,32251,20771,39.00289,-76.85534,Greenbelt,MD,255
+1957,Supertel Fort Wayne,37297,46819,40.96409,-85.13256,Fort Wayne,IN,23
+1958,Supertel Dallas,3901,75205,32.83657,-96.79617,Dallas,TX,145
+1959,Supertel Alto,44831,88312,33.43186,-105.64397,Alto,NM,233
+1960,Supertel Beaverdam,31137,23015,37.93127,-77.63124,Beaverdam,VA,200
+1961,Supertel Dixon,4928,95620,38.40599,-121.75689,Dixon,CA,207
+1962,Supertel Flippin,12465,72634,36.23693,-92.54891,Flippin,AR,108
+1963,Supertel Smithville,22941,78957,30.01279,-97.17481,Smithville,TX,267
+1964,Supertel Kennewick,37266,99338,46.17362,-119.27403,Kennewick,WA,36
+1965,Supertel Borger,31440,79007,35.66635,-101.41444,Borger,TX,299
+1966,Supertel Jet,16932,73749,36.70566,-98.16283,Jet,OK,37
+1967,Supertel Newbury,8714,3255,43.3149,-72.02795,Newbury,NH,96
+1968,Supertel Washington,37763,66968,39.8294,-97.06524,Washington,KS,37
+1969,Supertel Middleboro,13401,2346,41.88034,-70.87446,Middleboro,MA,69
+1970,Supertel Dumont,42781,80436,39.78203,-105.64349,Dumont,CO,232
+1971,Supertel Salix,13273,51052,42.31063,-96.26343,Salix,IA,33
+1972,Supertel Donovan,18998,60931,40.8919,-87.58654,Donovan,IL,64
+1973,Supertel Florence,4671,54121,45.86385,-88.32899,Florence,WI,22
+1974,Supertel McEwen,26650,37101,36.06625,-87.63741,McEwen,TN,246
+1975,Supertel Grantville,13226,17028,40.4033,-76.65073,Grantville,PA,153
+1976,Supertel Wellsburg,1544,26070,40.25008,-80.58037,Wellsburg,WV,293
+1977,Supertel Hazen,30736,72064,34.79457,-91.61226,Hazen,AR,59
+1978,Supertel Missouri City,45335,77489,29.60068,-95.51605,Missouri City,TX,57
+1979,Supertel Laredo,30761,78040,27.51349,-99.50232,Laredo,TX,215
+1980,Supertel Alleyton,413,78935,29.68797,-96.43006,Alleyton,TX,83
+1981,Supertel Summersville,3634,65571,37.18501,-91.64546,Summersville,MO,217
+1982,Supertel Millersport,46381,43046,39.89917,-82.53844,Millersport,OH,258
+1983,Supertel Augusta,35154,26704,39.28619,-78.59471,Augusta,WV,141
+1984,Supertel Lonepine,34345,59848,47.71526,-114.68162,Lonepine,MT,107
+1985,Supertel Saint Louis,35074,63113,38.65797,-90.2475,Saint Louis,MO,125
+1986,Supertel Clinton,16815,44216,40.93848,-81.58397,Clinton,OH,43
+1987,Supertel Westfield,46178,14787,42.31342,-79.5675,Westfield,NY,269
+1988,Supertel Ridgway,29842,62979,37.80813,-88.2365,Ridgway,IL,69
+1989,Supertel Ann Arbor,9578,48104,42.26343,-83.71748,Ann Arbor,MI,141
+1990,Supertel Shorewood,45531,60404,41.50864,-88.22269,Shorewood,IL,278
+1991,Supertel Clayton,44501,27527,35.65767,-78.38336,Clayton,NC,119
+1992,Supertel Saxtons River,30771,5154,43.13558,-72.53424,Saxtons River,VT,258
+1993,Supertel Hanover,49219,49241,42.10121,-84.60149,Hanover,MI,229
+1994,Supertel Tujunga,20623,91042,34.30687,-118.25701,Tujunga,CA,259
+1995,Supertel Wallace,44000,83873,47.5982,-115.90899,Wallace,ID,235
+1996,Supertel Naval Air Station Jrb,10329,76127,32.77663,-97.43044,Naval Air Station Jrb,TX,125
+1997,Supertel Huletts Landing,801,12841,43.59919,-73.5165,Huletts Landing,NY,203
+1998,Supertel Hooker,5608,73945,36.8321,-101.22474,Hooker,OK,105
